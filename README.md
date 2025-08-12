@@ -16,11 +16,13 @@
 - [Tutorials & Guides](#tutorials--guides)
 
 ## Private Registries
-*Ready-to-use collection of MCP server implementations where MCP servers and tools are managed by the organization*
+*Ready-to-use pluggable MCP server implementations where MCP servers and tools are managed by the organization. They usually come with auth, guardrails, observability and more.*
 
 - **[Composio](https://composio.dev)** - Skills that evolve for your Agents. More than just integrations, 10,000+ tools that can adapt — turning automation into intuition. 📜 🆓
 
 - **[Docker MCP Catalog](https://hub.docker.com/mcp)** - Ready-to-use container images for MCP servers for simple Docker-based deployment. 🆓
+
+- **[Glama](https://glama.ai/)** - Managed MCP platform: directories, hosted servers, AI gateway, agents/automations, logging/traceability, and public MCP API. 🔑 🛡️ 🆓
 
 - **[Gumloop](https://www.gumloop.com/mcp)** - Workflow automation platform with built-in MCP server integrations. Connects MCP tools to automate workflows and integrate data across services. 🔑 🆓
 
@@ -114,8 +116,6 @@
 - **[Awesome MCP Servers](https://github.com/wong2/awesome-mcp-servers)** - Curated list of MCP servers, tools, and related resources. 🆓
 
 - **[Dexter MCP](https://www.dextermcp.net/)** - Comprehensive directory for Model Context Protocol servers and AI tools. Discover, compare, and implement the best AI technologies for your workflow. 🆓
-
-- **[Glama MCP Directory](https://glama.ai/mcp)** - Platform for discovering MCP servers, clients, and more within the Glama ecosystem. 🆓
 
 - **[MCP Market](https://mcpmarket.com)** - Directory of awesome MCP servers and clients to connect AI agents with your favorite tools. 🆓
 
