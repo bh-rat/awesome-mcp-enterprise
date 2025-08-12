@@ -36,7 +36,6 @@
 *Curated collections and marketplaces of pre-built MCP servers for various integrations*
 
 - **[Awesome MCP Servers](https://github.com/wong2/awesome-mcp-servers)** - Curated list of MCP servers, tools, and related resources. 💰
-  - **GitHub:** ⭐ 112 stars
 
 - **[Dexter MCP](https://www.dextermcp.net/)** - Comprehensive directory for Model Context Provider servers and AI tools. Discover, compare, and implement the best AI technologies for your workflow. 💰
 
@@ -50,12 +49,8 @@
 *Frameworks and SDKs for building custom MCP servers and clients*
 
 - **[FastMCP](https://gofastmcp.com/)** - The fast, Pythonic way to build MCP servers and clients with comprehensive tooling. 💰
-  - **GitHub:** ⭐ 15,900 stars
 
-- **[Golf.dev](https://golf.dev/)** - Turn your code into spec-compliant MCP servers with zero boilerplate.
-  
-  🔒 🛡️ 💰 🚀
-  - **GitHub:** ⭐ 725 stars
+- **[Golf.dev](https://golf.dev/)** - Turn your code into spec-compliant MCP servers with zero boilerplate. 🔒 🛡️ 💰 🚀
 
 ## Infrastructure & Deployment
 *Tools for deploying, scaling, and managing MCP servers in production*
