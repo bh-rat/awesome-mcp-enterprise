@@ -51,6 +51,8 @@
 
 - **[MCP Context Forge](https://github.com/IBM/mcp-context-forge)** - Feature-rich MCP gateway, proxy, and registry built on FastAPI - unifies discovery, auth, rate-limiting, virtual servers, and observability. 🆓
 
+- **[MCP Manager](https://mcpmanager.ai/)** - Enforces policies, blocks rogue tool calls, and improves incident response to prevent AI risks. 🧪
+
 - **[MCP-connect](https://github.com/EvalsOne/MCP-connect)** - Proxy/client to let cloud services call local stdio-based MCP servers over HTTP for easy workflow integration. 🧪
 
 - **[MetaMCP](https://github.com/metatool-ai/metamcp)** Open source. Proxy and aggregate multiple MCP servers into meta-MCPs, and host as SSE/SHTTP/OpenAPI endpoints with middleware, OAuth, and tool management. Stdio MCP servers hosting supported. 🔑 🧪 🆓
