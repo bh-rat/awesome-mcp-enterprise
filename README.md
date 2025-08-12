@@ -62,6 +62,8 @@
 ## Build Tools & Frameworks
 *Frameworks and SDKs for building custom MCP servers and clients*
 
+- **[FastAPI MCP](https://github.com/tadata-org/fastapi_mcp)** - Expose your FastAPI endpoints as MCP tools with auth. 🆓 🔑
+
 - **[FastMCP](https://gofastmcp.com/)** - The fast, Pythonic way to build MCP servers and clients with comprehensive tooling. 🆓
 
 - **[Golf.dev](https://golf.dev/)** - Turn your code into spec-compliant MCP servers with zero boilerplate. 🔑 🛡️ 🆓
@@ -71,6 +73,8 @@
 - **[MCPJam Inspector](https://github.com/MCPJam/inspector)** - "Postman for MCPs" — test and debug MCP servers by sending requests and viewing responses. 🆓
 
 - **[mcpadapt](https://grll.github.io/mcpadapt/)** - Unlock 650+ MCP tools in your favorite agentic framework. Manages and adapts MCP server tools into the appropriate format for each agent framework. 🧪 🆓
+
+- **[mcp-use](https://github.com/mcp-use/mcp-use)** - Open-source toolkit to connect any LLM to any MCP server and build custom MCP agents with tool access. 🆓
 
 - **[Naptha AI](https://auto-mcp.com/)** - Turn any agents, tools, or orchestrators into an MCP server in seconds; automates hosting and scaling from source or templates.
 
