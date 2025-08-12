@@ -24,7 +24,6 @@
 - **[Gumloop](https://www.gumloop.com/mcp)** - Workflow automation platform with built-in MCP server integrations. Connects MCP tools to automate workflows and integrate data across services. 🔒 💰
 
 - **[Klavis AI](https://www.klavis.ai/)** - Managed MCP servers for common AI tool integrations with built-in auth and monitoring. ✅ 🇪🇺 🔒 💰 🚀
-  - **GitHub:** ⭐ 3,900 stars
 
 - **[Make MCP](https://www.make.com/en)** - Integration module for connecting MCP servers to Make.com workflows. Enables workflow automations with MCP servers. 💰
 
@@ -68,10 +67,8 @@
 *MCP gateways, proxies, and routing solutions for enterprise architectures*
 
 - **[Arcade.dev](https://www.arcade.dev)** - AI Tool-calling Platform that securely connects AI to MCPs, APIs, data, and more. Build assistants that don't just chat – they get work done. 🔒 💰
-  - **GitHub:** [ArcadeAI](https://github.com/ArcadeAI)
 
 - **[MCP Context Forge](https://github.com/IBM/mcp-context-forge)** - Feature-rich MCP gateway, proxy, and registry built on FastAPI - unifies discovery, auth, rate-limiting, virtual servers, and observability. 💰
-  - **GitHub:** [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge)
 
 - **[TrueFoundry](https://www.truefoundry.com/mcp-gateway)** - Enterprise-grade MCP gateway with secure access, RBAC, observability, and dynamic policy enforcement. 🔒 🛡️
 
