@@ -78,6 +78,8 @@
 
 - **[Naptha AI](https://auto-mcp.com/)** - Turn any agents, tools, or orchestrators into an MCP server in seconds; automates hosting and scaling from source or templates.
 
+- **[Tadata](https://tadata.com/)** - Convert your OpenAPI spec into MCP servers so your API is accessible to AI agents. 🧪
+
 ## Security & Governance
 *Security, observability, guardrails, identity, and governance for MCP implementations*
 
