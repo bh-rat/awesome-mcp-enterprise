@@ -7,13 +7,13 @@
 
 ## Contents
 
-- [Private Registries](#private-registries)
-- [Gateways & Proxies](#gateways--proxies)
-- [Build Tools & Frameworks](#build-tools--frameworks)
-- [Security & Governance](#security--governance)
-- [Infrastructure & Deployment](#infrastructure--deployment)
-- [MCP Directories & Marketplaces](#mcp-directories--marketplaces)
-- [Tutorials & Guides](#tutorials--guides)
+ - [Private Registries (10)](#private-registries)
+ - [Gateways & Proxies (14)](#gateways--proxies)
+ - [Build Tools & Frameworks (10)](#build-tools--frameworks)
+ - [Security & Governance (5)](#security--governance)
+ - [Infrastructure & Deployment (4)](#infrastructure--deployment)
+ - [MCP Directories & Marketplaces (7)](#mcp-directories--marketplaces)
+ - [Tutorials & Guides (1)](#tutorials--guides)
 
 ## Private Registries
 *Ready-to-use pluggable MCP server implementations where MCP servers and tools are managed by the organization. They usually come with auth, guardrails, observability and more.*
@@ -50,6 +50,8 @@
 - **[Lasso MCP Gateway](https://www.lasso.security/)** - Protects every interaction with LLMs across your organization — simple, seamless, secure. 🛡️
 
 - **[MCP Context Forge](https://github.com/IBM/mcp-context-forge)** - Feature-rich MCP gateway, proxy, and registry built on FastAPI - unifies discovery, auth, rate-limiting, virtual servers, and observability. 🆓
+
+- **[MCP Jungle](https://github.com/mcpjungle/MCPJungle)** - Self-hosted MCP registry and gateway for AI agents; single source of truth for your organization's MCP servers. 🧪
 
 - **[MCP Manager](https://mcpmanager.ai/)** - Enforces policies, blocks rogue tool calls, and improves incident response to prevent AI risks. 🧪
 
