@@ -93,7 +93,7 @@
 | Icon | Meaning |
 |------|---------|
 | ✅ | SOC 2 Type II Certified |
-| 🏥 | HIPAA Compliant |
+| 🏥 | HIPAA Compliant |gst
 | 🇪🇺 | GDPR Compliant |
 | 🔐 | ISO 27001 Certified |
 | 📜 | PCI DSS Compliant |
