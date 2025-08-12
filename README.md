@@ -62,6 +62,8 @@
 ## Build Tools & Frameworks
 *Frameworks and SDKs for building custom MCP servers and clients*
 
+ - **[Dummy MCP](https://dummymcp.com/)** - Create prototype MCP servers instantly: define tools and mock responses to test LLM interactions and iterate quickly.
+
 - **[FastAPI MCP](https://github.com/tadata-org/fastapi_mcp)** - Expose your FastAPI endpoints as MCP tools with auth. 🆓 🔑
 
 - **[FastMCP](https://gofastmcp.com/)** - The fast, Pythonic way to build MCP servers and clients with comprehensive tooling. 🆓
@@ -91,7 +93,7 @@
 
 - **[Prefactor](https://prefactor.tech/)** - Native MCP Identity Layer for Modern SaaS. Secure, authorize, and audit AI agents — not just users. 🆓 🛡️
 
-- **[SGNL](https://sgnl.ai/)** - Policy-based control plane for AI: govern access between agents, MCP servers, and enterprise data using identity and policies. 🔑 🛡️
+ - **[SGNL](https://sgnl.ai/)** - Policy-based control plane for AI: govern access between agents, MCP servers, and enterprise data using identity and policies. 🔑 🛡️
 
 
 ## Infrastructure & Deployment
@@ -102,6 +104,8 @@
 - **[Cloudflare Agents](https://developers.cloudflare.com/agents/model-context-protocol/)** - Build and deploy remote MCP servers with built-in authn/authz on Cloudflare.
 
 - **[FastMCP Cloud](https://www.fastmcp.cloud/)** - Hosted FastMCP deployment to go from code to production quickly. 🧪
+
+- **[Shinzo Labs](https://shinzo.ai/)** - Complete observability for MCP servers: anonymous usage analytics, error tracking, and configurable data sanitization; GDPR/CPRA-friendly with self‑hosting options. 🛡️
 
 
 ## MCP Directories & Marketplaces
