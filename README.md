@@ -168,11 +168,6 @@ Emojis are used to indicate key features and certifications:
 | 🛡️ | Built-in Guardrails |
 | 🧪 | Beta Stage (not production-ready) |
 
-## Community
-
-- [MCP Discord Server](https://discord.gg/mcp) - Official community for MCP developers
-- [MCP GitHub Discussions](https://github.com/modelcontextprotocol/discussions) - Technical discussions and Q&A
-
 ## Contributing
 
 Contributions are welcome! Please read our [contribution guidelines](CONTRIBUTING.md) before submitting a PR.
