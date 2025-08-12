@@ -59,6 +59,8 @@
 
 - **[Microsoft MCP Gateway](https://github.com/microsoft/mcp-gateway)** - Reverse proxy and management layer for MCP servers with scalable, session-aware routing and lifecycle management on Kubernetes. 🆓
 
+ - **[Storm MCP](https://stormmcp.ai/)** - Enterprise MCP gateway and management platform: secure, verified hub for curated MCP servers with observability and policy controls. 🛡️ 🔑 📜 📘 💳 🏥 🇪🇺
+
 - **[Traego](https://traego.ai)** - Supercharge your AI workflows with a single endpoint. 🧪
 
 - **[TrueFoundry](https://www.truefoundry.com/mcp-gateway)** - Enterprise-grade MCP gateway with secure access, RBAC, observability, and dynamic policy enforcement. 🔑 🛡️
