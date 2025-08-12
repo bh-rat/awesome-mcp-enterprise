@@ -71,7 +71,6 @@ When adding emojis to your entry:
   - 🇪🇺 GDPR Compliant
   - 📘 ISO 27001 Certified
   - 💳 PCI DSS Compliant
-  - 💸 Funded
   - 🆓 Has Free Tier
   - 🔑 OAuth Support
   - 🛡️ Built-in Guardrails

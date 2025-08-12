@@ -7,7 +7,7 @@
 
 ## Contents
 
-- [Private Registries](#private-registries--managed-servers)
+- [Private Registries](#private-registries)
 - [Gateways & Proxies](#gateways--proxies)
 - [Build Tools & Frameworks](#build-tools--frameworks)
 - [Security & Governance](#security--governance)
@@ -24,7 +24,7 @@
 
 - **[Gumloop](https://www.gumloop.com/mcp)** - Workflow automation platform with built-in MCP server integrations. Connects MCP tools to automate workflows and integrate data across services. 🔑 🆓
 
-- **[Klavis AI](https://www.klavis.ai/)** - Managed MCP servers for common AI tool integrations with built-in auth and monitoring. 📜 🇪🇺 🔑 🆓 💸
+- **[Klavis AI](https://www.klavis.ai/)** - Managed MCP servers for common AI tool integrations with built-in auth and monitoring. 📜 🇪🇺 🔑 🆓
 
 - **[Make MCP](https://www.make.com/en)** - Integration module for connecting MCP servers to Make.com workflows. Enables workflow automations with MCP servers. 🆓
 
@@ -64,9 +64,11 @@
 
 - **[FastMCP](https://gofastmcp.com/)** - The fast, Pythonic way to build MCP servers and clients with comprehensive tooling. 🆓
 
-- **[Golf.dev](https://golf.dev/)** - Turn your code into spec-compliant MCP servers with zero boilerplate. 🔑 🛡️ 🆓 💸
+- **[Golf.dev](https://golf.dev/)** - Turn your code into spec-compliant MCP servers with zero boilerplate. 🔑 🛡️ 🆓
 
 - **[Lean MCP](https://leanmcp.com/)** - Lightweight toolkit for quickly building MCP‑compliant servers without heavy dependencies.
+
+- **[MCPJam Inspector](https://github.com/MCPJam/inspector)** - "Postman for MCPs" — test and debug MCP servers by sending requests and viewing responses. 🆓
 
 - **[mcpadapt](https://grll.github.io/mcpadapt/)** - Unlock 650+ MCP tools in your favorite agentic framework. Manages and adapts MCP server tools into the appropriate format for each agent framework. 🧪 🆓
 
@@ -77,7 +79,7 @@
 
 - **[Invariant Labs](https://invariantlabs.ai/)** - Infrastructure and tooling for secure, reliable AI agents, including hosting, compliance, and security layers. 🛡️
 
-- **[Ithena MCP Governance SDK](https://www.ithena.one/)** - End-to-end observability for MCP tools: monitor requests, responses, errors, and performance without code changes. 💸 🔑 🛡️
+- **[Ithena MCP Governance SDK](https://www.ithena.one/)** - End-to-end observability for MCP tools: monitor requests, responses, errors, and performance without code changes. 🔑 🛡️
 
 - **[Pomerium](https://www.pomerium.com/)** - Zero Trust access for every identity - humans, services, and AI agents. Every request secured by policy, not perimeter. 🆓 🔑 🛡️
 
@@ -136,7 +138,6 @@
 - **[Official MCP Servers Registry](https://github.com/modelcontextprotocol/servers)** - Official MCP server implementations, examples, and reference code. 🆓
 
 ### Developer Tools
-- **[MCPJam Inspector](https://github.com/MCPJam/inspector)** - "Postman for MCPs" — test and debug MCP servers by sending requests and viewing responses. 🆓
 
 ### Blog Posts & Articles
 *Coming soon - submit a PR to add resources!*
@@ -152,7 +153,6 @@ Emojis are used to indicate key features and certifications:
 | 🇪🇺 | GDPR Compliant |
 | 📘 | ISO 27001 Certified |
 | 💳 | PCI DSS Compliant |
-| 💸 | Funded |
 | 🆓 | Has Free Tier |
 | 🔑 | OAuth Support |
 | 🛡️ | Built-in Guardrails |
