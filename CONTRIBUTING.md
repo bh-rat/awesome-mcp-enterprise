@@ -7,7 +7,7 @@ Thank you for your interest in contributing to Awesome MCP Enterprise! This guid
 Please ensure your submission meets these criteria:
 
 ### Required Criteria
-- **Production-Ready**: The tool/service must be in production or GA (General Availability) stage (use Beta/Alpha badges for non-production tools)
+ - **Production-Ready**: The tool/service must be in production or GA (General Availability) stage (beta tools may be accepted if clearly marked with 🧪)
 - **Actively Maintained**: Last update within 6 months, responsive to issues
 - **Clear Documentation**: Must have comprehensive documentation for enterprise deployment
 - **MCP-Specific**: Must be specifically designed for or compatible with Model Context Protocol
@@ -25,18 +25,14 @@ Please ensure your submission meets these criteria:
 3. **Follow the exact format**:
 
 ```markdown
-- **[Tool Name](https://website.com)** - One-line description focusing on unique value.
-  
-  ![Badge1](https://img.shields.io/badge/Badge-Text-color?style=flat-square) ![Badge2](https://img.shields.io/badge/Badge-Text-color?style=flat-square)
-  - **GitHub:** ⭐ X stars (if applicable)
+- **[Tool Name](https://website.com)** - One-line description focusing on unique value. 📜 🆓 🔑
 ```
 
-**Note:** Production stage is assumed by default. Only add ![Beta](https://img.shields.io/badge/Beta-orange?style=flat-square) or ![Alpha](https://img.shields.io/badge/Alpha-red?style=flat-square) badges for non-production tools.
+**Note:** Production stage is assumed by default. Only add 🧪 emoji for beta/non-production tools.
 
-4. **Include appropriate badges** from the legend (only if verified)
-   - Use shields.io badges with the exact format from the README legend
-   - Colors should match: green for compliance, blue for standards, etc.
-   - Include only badges that are verifiable
+4. **Include appropriate emojis** from the legend (only if verified)
+   - Add emojis directly after the description
+   - Include only emojis for features/certifications that are verifiable
 5. **Keep descriptions concise** - one sentence maximum
 6. **Maintain alphabetical order** within categories
 7. **Submit a Pull Request** with a clear title and description
@@ -65,21 +61,23 @@ When submitting a PR, please use this template:
 - [ ] All links are working
 ```
 
-## Badge Guidelines
+## Emoji Guidelines
 
-When adding badges to your entry:
-- Use the shields.io format: `![Name](https://img.shields.io/badge/Text-Value-color?style=flat-square)`
-- Follow the color scheme from the legend:
-  - **Green**: Compliance certifications (SOC2, HIPAA)
-  - **Blue**: Standards (GDPR, ISO 27001, PCI DSS)
-  - **Bright Green**: Open Source
-  - **Orange**: Beta stage or Self-Hostable features
-  - **Red**: Alpha stage (experimental)
-  - **Yellow**: OAuth support
-  - **Purple**: Built-in guardrails
-  - **Success/Green**: Free tier available
-- Production stage is assumed - only add Beta/Alpha badges for non-production tools
-- Only include badges for features/certifications you can verify with documentation
+When adding emojis to your entry:
+- Place emojis directly after the description, separated by spaces
+- Use emojis from the legend in README.md:
+  - 📜 SOC 2 Type II Certified
+  - 🏥 HIPAA Compliant
+  - 🇪🇺 GDPR Compliant
+  - 📘 ISO 27001 Certified
+  - 💳 PCI DSS Compliant
+  - 💸 Funded
+  - 🆓 Has Free Tier
+  - 🔑 OAuth Support
+  - 🛡️ Built-in Guardrails
+  - 🧪 Beta Stage (not production-ready)
+- Production stage is assumed - only add ⚠️ for beta/non-production tools
+- Only include emojis for features/certifications you can verify with documentation
 
 ## Adding Resources
 
@@ -91,7 +89,7 @@ Resources (tutorials, blog posts, etc.) should:
 
 ## What We Don't Accept
 
-- Alpha/experimental tools (unless clearly marked and exceptional)
+- Alpha/experimental tools
 - Purely promotional content
 - Duplicate entries
 - Tools without clear MCP integration
