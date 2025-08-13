@@ -8,12 +8,12 @@
 ## Contents
 
  - [Private Registries (10)](#private-registries)
- - [Gateways & Proxies (14)](#gateways--proxies)
- - [Build Tools & Frameworks (10)](#build-tools--frameworks)
+ - [Gateways & Proxies (16)](#gateways--proxies)
+ - [Build Tools & Frameworks (11)](#build-tools--frameworks)
  - [Security & Governance (5)](#security--governance)
  - [Infrastructure & Deployment (4)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (7)](#mcp-directories--marketplaces)
- - [Tutorials & Guides (1)](#tutorials--guides)
+ - [Tutorials & Guides (2)](#tutorials--guides)
 
 ## Private Registries
 *Ready-to-use pluggable MCP server implementations where MCP servers and tools are managed by the organization. They usually come with auth, guardrails, observability and more.*
@@ -59,7 +59,11 @@
 
 - **[MetaMCP](https://github.com/metatool-ai/metamcp)** Open source. Proxy and aggregate multiple MCP servers into meta-MCPs, and host as SSE/SHTTP/OpenAPI endpoints with middleware, OAuth, and tool management. Stdio MCP servers hosting supported. 🔑 🧪 🆓
 
+ - **[MintMCP](https://mintmcp.com/)** - Auth/SSO, RBAC, logs, virtual MCP servers; deploys and runs custom MCPs for you. 🔑 🛡️
+
 - **[Microsoft MCP Gateway](https://github.com/microsoft/mcp-gateway)** - Reverse proxy and management layer for MCP servers with scalable, session-aware routing and lifecycle management on Kubernetes. 🆓
+
+ - **[NexusRouter](https://nexusrouter.com/)** - Unified endpoint to route MCP servers and LLMs; aggregate, govern, and control your AI stack. 🧪
 
  - **[Storm MCP](https://stormmcp.ai/)** - Enterprise MCP gateway and management platform: secure, verified hub for curated MCP servers with observability and policy controls. 🛡️ 🔑 📜 📘 💳 🏥 🇪🇺
 
@@ -91,6 +95,8 @@
 - **[Naptha AI](https://auto-mcp.com/)** - Turn any agents, tools, or orchestrators into an MCP server in seconds; automates hosting and scaling from source or templates.
 
 - **[Tadata](https://tadata.com/)** - Convert your OpenAPI spec into MCP servers so your API is accessible to AI agents. 🧪
+
+- **[ContexaAI](https://www.contexaai.com/)** - Firebase for MCP servers: build, test, debug, and deploy MCP servers with OAuth support. 🔑
 
 ## Security & Governance
 *Security, observability, guardrails, identity, and governance for MCP implementations*
@@ -139,6 +145,8 @@
 *Enterprise-focused tutorials, implementation guides, and best practices for MCP deployment*
 
 - **[EpicAI Pro — Kent C. Dodds](https://epicai.pro)** - The blueprint for building next‑generation AI‑powered applications structured for context protocols like MCP.
+
+- **[Anthropic: Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol)** - Official course introducing MCP concepts, architecture, and hands‑on usage.
 
 
 
