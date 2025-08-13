@@ -49,6 +49,8 @@
 
 - **[FLUJO](https://github.com/mario-andreschak/FLUJO)** - MCP hub/inspector with multi-model workflow and chat interface for complex agent workflows using MCP servers and tools. 🧪
 
+- **[Hypertool MCP](https://github.com/toolprint/hypertool-mcp)** - An MCP that let's you dynamically select tools across all your MCPs to get around tool binding limits and context overload. 📈 💰
+
 - **[Lasso MCP Gateway](https://www.lasso.security/)** - Protects every interaction with LLMs across your organization — simple, seamless, secure. 🛡️
 
 - **[MCP Context Forge](https://github.com/IBM/mcp-context-forge)** - Feature-rich MCP gateway, proxy, and registry built on FastAPI - unifies discovery, auth, rate-limiting, virtual servers, and observability. 🆓
