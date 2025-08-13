@@ -8,7 +8,7 @@
 ## Contents
 
  - [Private Registries (10)](#private-registries)
- - [Gateways & Proxies (16)](#gateways--proxies)
+ - [Gateways & Proxies (17)](#gateways--proxies)
  - [Build Tools & Frameworks (11)](#build-tools--frameworks)
  - [Security & Governance (5)](#security--governance)
  - [Infrastructure & Deployment (4)](#infrastructure--deployment)
@@ -45,6 +45,8 @@
 
 - **[catie-mcp](https://www.catiemcp.com/)** - Context-aware, configurable proxy for routing MCP JSON-RPC requests to appropriate backends based on request content. 🧪
 
+ - **[Cloud MCP](https://cloudmcp.dev/)** - Enterprise MCP control plane providing secure, scalable infrastructure and granular access control. 🧪 🔑 🛡️
+
 - **[FLUJO](https://github.com/mario-andreschak/FLUJO)** - MCP hub/inspector with multi-model workflow and chat interface for complex agent workflows using MCP servers and tools. 🧪
 
 - **[Lasso MCP Gateway](https://www.lasso.security/)** - Protects every interaction with LLMs across your organization — simple, seamless, secure. 🛡️
@@ -61,7 +63,7 @@
 
  - **[MintMCP](https://mintmcp.com/)** - Auth/SSO, RBAC, logs, virtual MCP servers; deploys and runs custom MCPs for you. 🔑 🛡️
 
-- **[Microsoft MCP Gateway](https://github.com/microsoft/mcp-gateway)** - Reverse proxy and management layer for MCP servers with scalable, session-aware routing and lifecycle management on Kubernetes. 🆓
+ - **[Microsoft MCP Gateway](https://github.com/microsoft/mcp-gateway)** - Reverse proxy and management layer for MCP servers with scalable, session-aware routing and lifecycle management on Kubernetes. 🆓
 
  - **[NexusRouter](https://nexusrouter.com/)** - Unified endpoint to route MCP servers and LLMs; aggregate, govern, and control your AI stack. 🧪
 
