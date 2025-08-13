@@ -8,10 +8,10 @@
 ## Contents
 
  - [Private Registries (10)](#private-registries)
- - [Gateways & Proxies (17)](#gateways--proxies)
+ - [Gateways & Proxies (18)](#gateways--proxies)
  - [Build Tools & Frameworks (11)](#build-tools--frameworks)
  - [Security & Governance (5)](#security--governance)
- - [Infrastructure & Deployment (4)](#infrastructure--deployment)
+ - [Infrastructure & Deployment (5)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (7)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
 
@@ -72,6 +72,8 @@
 - **[Traego](https://traego.ai)** - Supercharge your AI workflows with a single endpoint. 🧪
 
 - **[TrueFoundry](https://www.truefoundry.com/mcp-gateway)** - Enterprise-grade MCP gateway with secure access, RBAC, observability, and dynamic policy enforcement. 🔑 🛡️
+
+ - **[UCL](https://ucl.dev/)** - Multi-tenant MCP gateway: auth, monitoring, observability, orchestration to connect agents to user tools. 🔑 🛡️
 
 - **[Unla](https://github.com/AmoyLab/Unla)** - Lightweight gateway that turns existing MCP servers and APIs into MCP servers with zero code changes. 🧪
 

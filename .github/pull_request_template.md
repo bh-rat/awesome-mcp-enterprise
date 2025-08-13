@@ -15,3 +15,4 @@
 - [ ] Placed in correct category
 - [ ] Alphabetical order maintained
 - [ ] All links are working
+- [ ] Updated the count in the content section
