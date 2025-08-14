@@ -123,6 +123,8 @@
 ## Infrastructure & Deployment
 *Tools for deploying, scaling, and managing MCP servers in production*
 
+- **[Alpic](https://alpic.ai/)** - All-in-one platform that makes deploying, managing and scaling your MCP servers seamless by syncing with your Github repository. Supports all languages and MCP frameworks.
+
 - **[Blaxel](https://blaxel.ai/)** - Serverless platform for building, deploying, and scaling AI agents with rich observability and GitHub-native workflows.
 
 - **[Cloudflare Agents](https://developers.cloudflare.com/agents/model-context-protocol/)** - Build and deploy remote MCP servers with built-in authn/authz on Cloudflare.
