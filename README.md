@@ -7,7 +7,7 @@
 
 ## Contents
 
- - [Private Registries (10)](#private-registries)
+ - [Private Registries (11)](#private-registries)
  - [Gateways & Proxies (18)](#gateways--proxies)
  - [Build Tools & Frameworks (11)](#build-tools--frameworks)
  - [Security & Governance (5)](#security--governance)
@@ -17,6 +17,8 @@
 
 ## Private Registries
 *Ready-to-use pluggable MCP server implementations where MCP servers and tools are managed by the organization. They usually come with auth, guardrails, observability and more.*
+
+- **[ACI.dev](https://aci.dev)** - Power your agentic IDE or AI agent with 600+ tools. The open-source tool-calling engine that drops into any agentic IDE or custom AI agent. 🔑
 
 - **[Composio](https://composio.dev)** - Skills that evolve for your Agents. More than just integrations, 10,000+ tools that can adapt — turning automation into intuition. 📜 🆓
 
