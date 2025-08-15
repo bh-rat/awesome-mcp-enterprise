@@ -11,7 +11,7 @@
  - [Gateways & Proxies (19)](#gateways--proxies)
  - [Build Tools & Frameworks (11)](#build-tools--frameworks)
  - [Security & Governance (5)](#security--governance)
- - [Infrastructure & Deployment (5)](#infrastructure--deployment)
+ - [Infrastructure & Deployment (6)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (7)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
 
@@ -122,6 +122,8 @@
 
 ## Infrastructure & Deployment
 *Tools for deploying, scaling, and managing MCP servers in production*
+
+- **[Alpic](https://alpic.ai/)** - All-in-one platform that makes deploying, managing and scaling your MCP servers seamless by syncing with your Github repository. Supports all languages and MCP frameworks. 🔑 🆓
 
 - **[Blaxel](https://blaxel.ai/)** - Serverless platform for building, deploying, and scaling AI agents with rich observability and GitHub-native workflows.
 
