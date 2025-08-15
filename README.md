@@ -9,7 +9,7 @@
 
  - [Private Registries (11)](#private-registries)
  - [Gateways & Proxies (19)](#gateways--proxies)
- - [Build Tools & Frameworks (11)](#build-tools--frameworks)
+ - [Build Tools & Frameworks (12)](#build-tools--frameworks)
  - [Security & Governance (5)](#security--governance)
  - [Infrastructure & Deployment (6)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (7)](#mcp-directories--marketplaces)
@@ -105,6 +105,8 @@
 - **[Tadata](https://tadata.com/)** - Convert your OpenAPI spec into MCP servers so your API is accessible to AI agents. 🧪
 
 - **[ContexaAI](https://www.contexaai.com/)** - Firebase for MCP servers: build, test, debug, and deploy MCP servers with OAuth support. 🔑
+
+- **[Zuplo](http://zuplo.com/)** - Transform any API into an MCP server in seconds. Automatically expose endpoints as MCP-compatible tools, resources, and prompts. 🔑 📜 🆓
 
 ## Security & Governance
 *Security, observability, guardrails, identity, and governance for MCP implementations*
