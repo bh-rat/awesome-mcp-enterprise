@@ -106,7 +106,7 @@
 
 - **[Tadata](https://tadata.com/)** - Convert your OpenAPI spec into MCP servers so your API is accessible to AI agents. 🧪
 
-- **[Zuplo](http://zuplo.com/)** - Transform any API into an MCP server in seconds. Automatically expose endpoints as MCP-compatible tools, resources, and prompts. 🔑 📜 🆓
+- **[Zuplo](http://zuplo.com/)** - API Management Platform that lets you build MCP servers, generate them from your existing APIs, secure them with policies, and handles the hosting. 🔑 📜 🆓
 
 ## Security & Governance
 *Security, observability, guardrails, identity, and governance for MCP implementations*
