@@ -84,6 +84,8 @@
 ## Build Tools & Frameworks
 *Frameworks and SDKs for building custom MCP servers and clients*
 
+- **[ContexaAI](https://www.contexaai.com/)** - Firebase for MCP servers: build, test, debug, and deploy MCP servers with OAuth support. 🔑
+
  - **[Dummy MCP](https://dummymcp.com/)** - Create prototype MCP servers instantly: define tools and mock responses to test LLM interactions and iterate quickly.
 
 - **[FastAPI MCP](https://github.com/tadata-org/fastapi_mcp)** - Expose your FastAPI endpoints as MCP tools with auth. 🆓 🔑
@@ -103,8 +105,6 @@
 - **[Naptha AI](https://auto-mcp.com/)** - Turn any agents, tools, or orchestrators into an MCP server in seconds; automates hosting and scaling from source or templates.
 
 - **[Tadata](https://tadata.com/)** - Convert your OpenAPI spec into MCP servers so your API is accessible to AI agents. 🧪
-
-- **[ContexaAI](https://www.contexaai.com/)** - Firebase for MCP servers: build, test, debug, and deploy MCP servers with OAuth support. 🔑
 
 - **[Zuplo](http://zuplo.com/)** - Transform any API into an MCP server in seconds. Automatically expose endpoints as MCP-compatible tools, resources, and prompts. 🔑 📜 🆓
 
