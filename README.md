@@ -7,7 +7,7 @@
 
 ## Contents
 
- - [Private Registries (11)](#private-registries)
+ - [Private Registries (12)](#private-registries)
  - [Gateways & Proxies (19)](#gateways--proxies)
  - [Build Tools & Frameworks (12)](#build-tools--frameworks)
  - [Security & Governance (5)](#security--governance)
@@ -33,6 +33,9 @@
 - **[Make MCP](https://www.make.com/en)** - Integration module for connecting MCP servers to Make.com workflows. Enables workflow automations with MCP servers. 🆓
 
 - **[mcp.run](https://mcp.run)** - One platform for vertical AI across your organization. Instantly deploy MCP servers in the cloud for rapid prototyping or production use. 🛡️
+
+- **[[mcp]central.io](https://mcpcentral.io)** - Private registries, managed cloud solutions, and intelligent tooling for
+  non-technical enterprise teams, plus public directory. 🧪 🆓 🔑 🛡️
 
 - **[Pipedream](https://mcp.pipedream.com/)** - AI developer toolkit for integrations: add 2,800+ APIs and 10,000+ tools to your assistant. 🆓
 
