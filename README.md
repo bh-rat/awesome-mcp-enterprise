@@ -43,6 +43,8 @@
 
 - **[Zapier MCP](https://zapier.com/mcp)** - Connect your AI to any app with Zapier MCP. The fastest way to let your AI assistant interact with thousands of apps. 🧪 🆓
 
+- **[MCP Cloud](https://mcp-cloud.io/)** - Enterprise-grade cloud platform to deploy MCP servers with thousands of curated MCP servers ready to deploy. Also a first MCP as as Service Platform to monetize your MCP servers! 💰 🇪🇺 🔑 🆓
+
 ## Gateways & Proxies
 *MCP gateways, proxies, and routing solutions for enterprise architectures. Most also provide security features like OAuth, authn/authz, and guardrails.*
 
