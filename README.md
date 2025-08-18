@@ -7,7 +7,7 @@
 
 ## Contents
 
- - [Private Registries (12)](#private-registries)
+ - [Private Registries (13)](#private-registries)
  - [Gateways & Proxies (19)](#gateways--proxies)
  - [Build Tools & Frameworks (13)](#build-tools--frameworks)
  - [Security & Governance (5)](#security--governance)
