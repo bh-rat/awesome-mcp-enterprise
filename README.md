@@ -10,7 +10,7 @@
  - [Private Registries (12)](#private-registries)
  - [Gateways & Proxies (19)](#gateways--proxies)
  - [Build Tools & Frameworks (13)](#build-tools--frameworks)
- - [Security & Governance (5)](#security--governance)
+ - [Security & Governance (6)](#security--governance)
  - [Infrastructure & Deployment (6)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (7)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
@@ -115,6 +115,8 @@
 
 ## Security & Governance
 *Security, observability, guardrails, identity, and governance for MCP implementations*
+
+- **[akto](https://www.akto.io/)** - Agentic MCP Security Platform. Automatically discover MCP servers and related API endpoints, run targeted security tests, and detect misconfigurations, threats, and sensitive data exposure in real time. 🇪🇺 📜 🏥 📘
 
 - **[Invariant Labs](https://invariantlabs.ai/)** - Infrastructure and tooling for secure, reliable AI agents, including hosting, compliance, and security layers. 🛡️
 
