@@ -8,7 +8,7 @@
 ## Contents
 
  - [Private Registries (12)](#private-registries)
- - [Gateways & Proxies (20)](#gateways--proxies)
+ - [Gateways & Proxies (21)](#gateways--proxies)
  - [Build Tools & Frameworks (13)](#build-tools--frameworks)
  - [Security & Governance (6)](#security--governance)
  - [Infrastructure & Deployment (6)](#infrastructure--deployment)
@@ -73,6 +73,8 @@
  - **[Microsoft MCP Gateway](https://github.com/microsoft/mcp-gateway)** - Reverse proxy and management layer for MCP servers with scalable, session-aware routing and lifecycle management on Kubernetes. 🆓
 
  - **[NexusRouter](https://nexusrouter.com/)** - Unified endpoint to route MCP servers and LLMs; aggregate, govern, and control your AI stack. 🧪
+
+- **[Operant AI](https://www.operant.ai/solutions/mcp-gateway)** - Enterprise-Grade MCP Security. Real-time Transparency and Protection for your entire MCP Ecosystem. 🛡️
 
 - **[palma.ai](https://palma.ai/)** - Unlock enterprise data enabled AI agents using MCP & A2A. Supercharge your AI investments with our scalable and secure enterprise gateway for your AI agents. 🧪
 
