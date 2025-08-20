@@ -8,7 +8,7 @@
 ## Contents
 
  - [Private Registries (12)](#private-registries)
- - [Gateways & Proxies (19)](#gateways--proxies)
+ - [Gateways & Proxies (20)](#gateways--proxies)
  - [Build Tools & Frameworks (13)](#build-tools--frameworks)
  - [Security & Governance (6)](#security--governance)
  - [Infrastructure & Deployment (6)](#infrastructure--deployment)
@@ -51,6 +51,8 @@
 - **[catie-mcp](https://www.catiemcp.com/)** - Context-aware, configurable proxy for routing MCP JSON-RPC requests to appropriate backends based on request content. 🧪
 
  - **[Cloud MCP](https://cloudmcp.dev/)** - Enterprise MCP control plane providing secure, scalable infrastructure and granular access control. 🧪 🔑 🛡️
+ 
+ - **[Enkrypt AI](https://www.enkryptai.com/secure-mcp-gateway)** - The Security Layer Your MCP Server Needs. Open-source gateway delivering privacy, security, and governance for MCP integrations.
 
 - **[FLUJO](https://github.com/mario-andreschak/FLUJO)** - MCP hub/inspector with multi-model workflow and chat interface for complex agent workflows using MCP servers and tools. 🧪
 
