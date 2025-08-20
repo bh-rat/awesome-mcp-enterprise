@@ -62,7 +62,7 @@
 
 - **[MCP Jungle](https://github.com/mcpjungle/MCPJungle)** - Self-hosted MCP registry and gateway for AI agents; single source of truth for your organization's MCP servers. 🧪
 
-- **[MCP Manager](https://mcpmanager.ai/)** - Enforces policies, blocks rogue tool calls, and improves incident response to prevent AI risks. 🧪
+- **[MCP Manager](https://mcpmanager.ai/)** - Enforces policies, blocks rogue tool calls, and improves incident response to prevent AI risks.  🛡️ 🔑 📜 🏥  🇪🇺 📘 💳 
 
 - **[MCP-connect](https://github.com/EvalsOne/MCP-connect)** - Proxy/client to let cloud services call local stdio-based MCP servers over HTTP for easy workflow integration. 🧪
 
