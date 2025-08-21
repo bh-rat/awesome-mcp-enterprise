@@ -10,7 +10,7 @@
  - [Private Registries (12)](#private-registries)
  - [Gateways & Proxies (20)](#gateways--proxies)
  - [Build Tools & Frameworks (13)](#build-tools--frameworks)
- - [Security & Governance (7)](#security--governance)
+ - [Security & Governance (8)](#security--governance)
  - [Infrastructure & Deployment (6)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (7)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
@@ -129,6 +129,8 @@
 - **[Pomerium](https://www.pomerium.com/)** - Zero Trust access for every identity - humans, services, and AI agents. Every request secured by policy, not perimeter. 🆓 🔑 🛡️
 
 - **[Prefactor](https://prefactor.tech/)** - Native MCP Identity Layer for Modern SaaS. Secure, authorize, and audit AI agents — not just users. 🆓 🛡️
+
+- **[scalekit](https://www.scalekit.com/)** - Modular auth platform for AI applications. Drop-in OAuth 2.1 specifically designed for MCP servers. 🔑 🛡️
 
  - **[SGNL](https://sgnl.ai/)** - Policy-based control plane for AI: govern access between agents, MCP servers, and enterprise data using identity and policies. 🔑 🛡️
 
