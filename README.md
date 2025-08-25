@@ -7,8 +7,8 @@
 
 ## Contents
 
- - [Private Registries (12)](#private-registries)
- - [Gateways & Proxies (21)](#gateways--proxies)
+ - [Private Registries (13)](#private-registries)
+ - [Gateways & Proxies (22)](#gateways--proxies)
  - [Build Tools & Frameworks (13)](#build-tools--frameworks)
  - [Security & Governance (8)](#security--governance)
  - [Infrastructure & Deployment (6)](#infrastructure--deployment)
@@ -21,6 +21,8 @@
 - **[ACI.dev](https://aci.dev)** - Power your agentic IDE or AI agent with 600+ tools. The open-source tool-calling engine that drops into any agentic IDE or custom AI agent. 🔑
 
 - **[Composio](https://composio.dev)** - Skills that evolve for your Agents. More than just integrations, 10,000+ tools that can adapt — turning automation into intuition. 📜 🆓
+
+- **[Disco.dev](https://www.disco.dev)** - Integration hub to browse, connect, and share MCP tools for your AI agents.
 
 - **[Docker MCP Catalog](https://hub.docker.com/mcp)** - Ready-to-use container images for MCP servers for simple Docker-based deployment. 🆓
 
@@ -57,6 +59,8 @@
 - **[FLUJO](https://github.com/mario-andreschak/FLUJO)** - MCP hub/inspector with multi-model workflow and chat interface for complex agent workflows using MCP servers and tools. 🧪
 
 - **[Lasso MCP Gateway](https://www.lasso.security/)** - Protects every interaction with LLMs across your organization — simple, seamless, secure. 🛡️
+
+- **[Lunar.dev MCPX](https://www.lunar.dev/)** - Lightweight, unified enterprise gateway to orchestrate and secure your MCP ecosystem.
 
 - **[MCP Context Forge](https://github.com/IBM/mcp-context-forge)** - Feature-rich MCP gateway, proxy, and registry built on FastAPI - unifies discovery, auth, rate-limiting, virtual servers, and observability. 🆓
 
