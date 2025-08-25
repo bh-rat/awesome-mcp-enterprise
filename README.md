@@ -8,7 +8,7 @@
 ## Contents
 
  - [Private Registries (12)](#private-registries)
- - [Gateways & Proxies (20)](#gateways--proxies)
+ - [Gateways & Proxies (21)](#gateways--proxies)
  - [Build Tools & Frameworks (13)](#build-tools--frameworks)
  - [Security & Governance (8)](#security--governance)
  - [Infrastructure & Deployment (6)](#infrastructure--deployment)
@@ -85,6 +85,9 @@
  - **[UCL](https://ucl.dev/)** - Multi-tenant MCP gateway: auth, monitoring, observability, orchestration to connect agents to user tools. 🔑 🛡️
 
 - **[Unla](https://github.com/AmoyLab/Unla)** - Lightweight gateway that turns existing MCP servers and APIs into MCP servers with zero code changes. 🧪
+
+- **[Webrix](https://www.webrix.ai)** - Secure MCP gateway to connect any AI agent with external and internal tools. SSO, RBAC, and full observability built-in. SaaS or On-Prem. 📜 🆓 🔑 🛡️
+
 
 ## Build Tools & Frameworks
 *Frameworks and SDKs for building custom MCP servers and clients*
