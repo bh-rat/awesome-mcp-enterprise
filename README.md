@@ -131,6 +131,8 @@
 
 - **[Ithena MCP Governance SDK](https://www.ithena.one/)** - End-to-end observability for MCP tools: monitor requests, responses, errors, and performance without code changes. 🔑 🛡️ 🆓
 
+- **[MCP Audit](https://audit.agentity.com)** - Agentic IDE extension to log all of the copilot's MCP tool calls to a SIEM or centralized loging system. 🆓 🔑
+
 - **[Operant AI](https://www.operant.ai/solutions/mcp-gateway)** - Enterprise-Grade MCP Security. Real-time Transparency and Protection for your entire MCP Ecosystem. 🛡️ 📜
 
 - **[Pomerium](https://www.pomerium.com/)** - Zero Trust access for every identity - humans, services, and AI agents. Every request secured by policy, not perimeter. 🆓 🔑 🛡️ 🇪🇺 📜
