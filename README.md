@@ -7,13 +7,24 @@
 
 ## Contents
 
- - [Private Registries (13)](#private-registries)
- - [Gateways & Proxies (22)](#gateways--proxies)
- - [Build Tools & Frameworks (13)](#build-tools--frameworks)
- - [Security & Governance (8)](#security--governance)
- - [Infrastructure & Deployment (6)](#infrastructure--deployment)
- - [MCP Directories & Marketplaces (7)](#mcp-directories--marketplaces)
- - [Tutorials & Guides (2)](#tutorials--guides)
+- [Awesome MCP Enterprise ](#awesome-mcp-enterprise-)
+  - [Contents](#contents)
+  - [Private Registries](#private-registries)
+  - [Gateways \& Proxies](#gateways--proxies)
+  - [Build Tools \& Frameworks](#build-tools--frameworks)
+  - [Security \& Governance](#security--governance)
+  - [Infrastructure \& Deployment](#infrastructure--deployment)
+  - [MCP Directories \& Marketplaces](#mcp-directories--marketplaces)
+  - [Tutorials \& Guides](#tutorials--guides)
+  - [Resources](#resources)
+    - [Official Documentation](#official-documentation)
+    - [Official Tools](#official-tools)
+    - [Official Registry](#official-registry)
+    - [Developer Tools](#developer-tools)
+    - [Blog Posts \& Articles](#blog-posts--articles)
+  - [Legend](#legend)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Private Registries
 *Ready-to-use pluggable MCP server implementations where MCP servers and tools are managed by the organization. They usually come with auth, guardrails, observability and more.*
@@ -119,6 +130,8 @@
 - **[SpeakEasy](https://www.speakeasy.com/)** - API development platform for creating LLM-ready APIs. Polish OpenAPI specs, generate SDKs, and build MCP servers from your existing APIs. 🔑 📜 🆓
 
 - **[Tadata](https://tadata.com/)** - Convert your OpenAPI spec into MCP servers so your API is accessible to AI agents. 🧪 🆓 🔑
+
+- **[xmcp](https://xmcp.vercel.app/)** - TypeScript framework for building and shipping MCP servers. Integrates with Next.js and deploys with zero config on Vercel. 🆓 🔑
 
 - **[Zuplo](http://zuplo.com/)** - API Management Platform that lets you build MCP servers, generate them from your existing APIs, secure them with policies, and handles the hosting. 🔑 📜 🆓
 
