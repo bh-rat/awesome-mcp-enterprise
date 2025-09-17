@@ -12,7 +12,7 @@
  - [Build Tools & Frameworks (13)](#build-tools--frameworks)
  - [Security & Governance (8)](#security--governance)
  - [Infrastructure & Deployment (6)](#infrastructure--deployment)
- - [MCP Directories & Marketplaces (7)](#mcp-directories--marketplaces)
+ - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
 
 ## Private Registries
@@ -166,6 +166,8 @@
 - **[Awesome MCP Servers](https://github.com/wong2/awesome-mcp-servers)** - Curated list of MCP servers, tools, and related resources. 🆓
 
 - **[Dexter MCP](https://www.dextermcp.net/)** - Comprehensive directory for Model Context Protocol servers and AI tools. Discover, compare, and implement the best AI technologies for your workflow. 🆓
+
+- **[FastMCP.me](https://fastmcp.me)** - App store for MCP servers — discover and one‑click install community‑vetted servers for Cursor, VS Code, Claude Desktop, and more. 🆓
 
 - **[MCP Market](https://mcpmarket.com)** - Directory of awesome MCP servers and clients to connect AI agents with your favorite tools. 🆓 
 
