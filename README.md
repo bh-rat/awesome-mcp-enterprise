@@ -104,6 +104,8 @@
 
 - **[FastMCP](https://gofastmcp.com/)** - The fast, Pythonic way to build MCP servers and clients with comprehensive tooling. 🆓 🔑
 
+- **[Roundtable](https://github.com/askbudi/roundtable)** - Zero-configuration MCP server that unifies multiple AI coding assistants through intelligent auto-discovery and standardized interface. 🆓 🔑
+
 - **[Golf.dev](https://golf.dev/)** - Turn your code into spec-compliant MCP servers with zero boilerplate. 🔑 🛡️ 🆓
 
 - **[Lean MCP](https://leanmcp.com/)** - Lightweight toolkit for quickly building MCP‑compliant servers without heavy dependencies. 
