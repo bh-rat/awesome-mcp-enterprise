@@ -9,7 +9,7 @@
 
  - [Private Registries (13)](#private-registries)
  - [Gateways & Proxies (22)](#gateways--proxies)
- - [Build Tools & Frameworks (13)](#build-tools--frameworks)
+ - [Build Tools & Frameworks (14)](#build-tools--frameworks)
  - [Security & Governance (8)](#security--governance)
  - [Infrastructure & Deployment (6)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
