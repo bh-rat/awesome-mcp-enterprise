@@ -120,6 +120,8 @@
 
 - **[Tadata](https://tadata.com/)** - Convert your OpenAPI spec into MCP servers so your API is accessible to AI agents. 🧪 🆓 🔑
 
+- **[xmcp](https://xmcp.dev/)** - TypeScript framework for building and shipping MCP servers. Integrates with Next.js and deploys with zero config on Vercel. 🆓 🔑
+
 - **[Zuplo](http://zuplo.com/)** - API Management Platform that lets you build MCP servers, generate them from your existing APIs, secure them with policies, and handles the hosting. 🔑 📜 🆓
 
 ## Security & Governance
