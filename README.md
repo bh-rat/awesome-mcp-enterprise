@@ -7,11 +7,11 @@
 
 ## Contents
 
- - [Private Registries (13)](#private-registries)
+ - [Private Registries (14)](#private-registries)
  - [Gateways & Proxies (22)](#gateways--proxies)
  - [Build Tools & Frameworks (13)](#build-tools--frameworks)
  - [Security & Governance (8)](#security--governance)
- - [Infrastructure & Deployment (6)](#infrastructure--deployment)
+ - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
 
@@ -28,7 +28,7 @@
 
 - **[Glama](https://glama.ai/)** - Managed MCP platform: directories, hosted servers, AI gateway, agents/automations, logging/traceability, and public MCP API. 🔑 🛡️ 🆓 🇪🇺
 
-- **[Gumloop](https://www.gumloop.com/mcp)** - Workflow automation platform with built-in MCP server integrations. Connects MCP tools to automate workflows and integrate data across services. 🔑 🆓 📜 🏥 🇪🇺 🛡️
+- **[Gumloop](https://www.gumloop.com/mcp)**- Workflow automation platform with built-in MCP server integrations. Connects MCP tools to automate workflows and integrate data across services. 🔑 🆓 📜 🏥 🇪🇺 🛡️
 
 - **[Klavis AI](https://www.klavis.ai/)** - Strata MCP server that guides AI agents through progressive tool discovery, addressing tool overload, context overload, and coverage gaps for reliable tool usage at any scale. 📜 🔑 🆓 🛡️
 
@@ -164,7 +164,7 @@
 
 - **[Shinzo Labs](https://shinzo.ai/)** - Complete observability for MCP servers: anonymous usage analytics, error tracking, and configurable data sanitization; GDPR/CPRA-friendly with self‑hosting options. 🛡️ 🇪🇺 🆓
 
-- **[Unified.to](https://unified.to/)** - Real-time Data Infrastructure. Unified API platform that unlocks customer data from 347+ sources across 21+ categories for B2B SaaS and AI-native products. No-caching approach with real-time data access and multi-language SDKs. 📜 🇪🇺 🔑
+- **[Unified.to](https://unified.to/)** - Real-time Data Infrastructure. Unified API + MCP that unlocks customer data from 347+ sources across 21+ categories for B2B SaaS and AI-native products. 📜 🇪🇺 🔑
 
 
 ## MCP Directories & Marketplaces
