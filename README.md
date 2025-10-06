@@ -30,9 +30,11 @@
 
 - **[Gumloop](https://www.gumloop.com/mcp)** - Workflow automation platform with built-in MCP server integrations. Connects MCP tools to automate workflows and integrate data across services. 🔑 🆓 📜 🏥 🇪🇺 🛡️
 
-- **[Klavis AI](https://www.klavis.ai/)** - Managed MCP servers for common AI tool integrations with built-in auth and monitoring. 📜 🔑 🆓 🛡️
+- **[Klavis AI](https://www.klavis.ai/)** - Strata MCP server that guides AI agents through progressive tool discovery, addressing tool overload, context overload, and coverage gaps for reliable tool usage at any scale. 📜 🔑 🆓 🛡️
 
 - **[Make MCP](https://www.make.com/en)** - Integration module for connecting MCP servers to Make.com workflows. Enables workflow automations with MCP servers. 🆓 🔑 🇪🇺 📜 📘
+
+- **[Merge](https://www.merge.dev/)** - Unified API and Agent Handler to connect to hundreds of third-party tools across HRIS, ATS, CRM, Accounting, File Storage, and Ticketing. 📜 🏥 🇪🇺 📘 🔑 🛡️ 🆓
 
 - **[mcp.run](https://mcp.run)** - One platform for vertical AI across your organization. Instantly deploy MCP servers in the cloud for rapid prototyping or production use. 🛡️🆓 
 
@@ -44,6 +46,7 @@
 - **[SuperMachine](https://supermachine.ai/)** - One-click hosted MCP servers with thousands of AI agent tools available instantly. Simple, managed setup and integration. 🔑
 
 - **[Zapier MCP](https://zapier.com/mcp)** - Connect your AI to any app with Zapier MCP. The fastest way to let your AI assistant interact with thousands of apps. 🧪 🆓 🇪🇺 📜
+
 
 ## Gateways & Proxies
 *MCP gateways, proxies, and routing solutions for enterprise architectures. Most also provide security features like OAuth, authn/authz, and guardrails.*
@@ -155,9 +158,13 @@
 
 - **[FastMCP Cloud](https://www.fastmcp.cloud/)** - Hosted FastMCP deployment to go from code to production quickly. 🧪 🔑 🆓
 
+- **[MCPcat](https://mcpcat.io/)** - Analytics platform for MCP server owners that helps developers and product owners build, improve, and monitor their MCP servers. 🧪 🆓 
+
 - **[NimbleTools](https://www.nimbletools.ai)** - MCP runtime for the enterprise. Use our cloud or bring your own (BYOC) to securely connect AI to all your tools, APIs, and data. 🆓 
 
 - **[Shinzo Labs](https://shinzo.ai/)** - Complete observability for MCP servers: anonymous usage analytics, error tracking, and configurable data sanitization; GDPR/CPRA-friendly with self‑hosting options. 🛡️ 🇪🇺 🆓
+
+- **[Unified.to](https://unified.to/)** - Real-time Data Infrastructure. Unified API platform that unlocks customer data from 347+ sources across 21+ categories for B2B SaaS and AI-native products. No-caching approach with real-time data access and multi-language SDKs. 📜 🇪🇺 🔑
 
 
 ## MCP Directories & Marketplaces
@@ -199,7 +206,7 @@
 - **[MCP Inspector](https://modelcontextprotocol.io/legacy/tools/inspector)** - Web-based tool to inspect and interact with MCP servers in real time. 🆓
 
 ### Official Registry
-- **[Official MCP Servers Registry](https://github.com/modelcontextprotocol/servers)** - Official MCP server implementations, examples, and reference code. 🆓
+- **[Official MCP Servers Registry](https://github.com/modelcontextprotocol/registry)** - Official MCP server implementations, examples, and reference code. 🆓
 
 ### Developer Tools
 
