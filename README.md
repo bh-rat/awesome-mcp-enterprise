@@ -9,7 +9,7 @@
 
  - [Private Registries (14)](#private-registries)
  - [Gateways & Proxies (22)](#gateways--proxies)
- - [Build Tools & Frameworks (13)](#build-tools--frameworks)
+ - [Build Tools & Frameworks (14)](#build-tools--frameworks)
  - [Security & Governance (8)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
@@ -122,6 +122,8 @@
 - **[SpeakEasy](https://www.speakeasy.com/)** - API development platform for creating LLM-ready APIs. Polish OpenAPI specs, generate SDKs, and build MCP servers from your existing APIs. 🔑 📜 🆓
 
 - **[Tadata](https://tadata.com/)** - Convert your OpenAPI spec into MCP servers so your API is accessible to AI agents. 🧪 🆓 🔑
+
+- **[xmcp](https://xmcp.dev/)** - TypeScript framework for building and shipping MCP servers. Integrates with Next.js and deploys with zero config on Vercel. 🆓 🔑
 
 - **[Zuplo](http://zuplo.com/)** - API Management Platform that lets you build MCP servers, generate them from your existing APIs, secure them with policies, and handles the hosting. 🔑 📜 🆓
 
