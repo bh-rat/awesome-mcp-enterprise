@@ -9,7 +9,7 @@
 
  - [Private Registries (14)](#private-registries)
  - [Gateways & Proxies (22)](#gateways--proxies)
- - [Build Tools & Frameworks (14)](#build-tools--frameworks)
+ - [Build Tools & Frameworks (15)](#build-tools--frameworks)
  - [Security & Governance (8)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
@@ -112,6 +112,8 @@
 - **[Lean MCP](https://leanmcp.com/)** - Lightweight toolkit for quickly building MCP‑compliant servers without heavy dependencies. 
 
 - **[MCPJam Inspector](https://github.com/MCPJam/inspector)** - "Postman for MCPs" — test and debug MCP servers by sending requests and viewing responses. 🆓 🔑
+
+- **[Metorial](https://metorial.com/)** - Connect AI models to APIs, data sources, and tools via MCP with one-liner SDKs. Unified interface with monitoring and self-hosting options. 🆓
 
 - **[mcpadapt](https://grll.github.io/mcpadapt/)** - Unlock 650+ MCP tools in your favorite agentic framework. Manages and adapts MCP server tools into the appropriate format for each agent framework. 🧪 🆓 
 
