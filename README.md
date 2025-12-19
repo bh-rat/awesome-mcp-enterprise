@@ -61,7 +61,7 @@
 
 - **[FLUJO](https://github.com/mario-andreschak/FLUJO)** - MCP hub/inspector with multi-model workflow and chat interface for complex agent workflows using MCP servers and tools. 🧪 
 
-- **[Golf](https://golf.dev/)** - Enterprise MCP gateway for centralized control, policy enforcement, SIEM integration, and PII/prompt-injection protection. 🛡️ 🔑 💳
+- **[Golf (Enterprise MCP Gateway)](https://golf.dev/)** - Enterprise MCP gateway for centralized control, policy enforcement, SIEM integration, and PII/prompt-injection protection. 🛡️ 🔑 💳
 
 - **[Lasso MCP Gateway](https://www.lasso.security/)** - Protects every interaction with LLMs across your organization — simple, seamless, secure. 🛡️ 📜 📘 💳
 
