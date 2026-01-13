@@ -103,6 +103,9 @@
 ## Build Tools & Frameworks
 *Frameworks and SDKs for building custom MCP servers and clients*
 
+- **[PraisonAI MCP](https://github.com/MervinPraison/praisonai-mcp)** - AI Agents framework with 64+ built-in MCP tools for automation, code execution, and workflows. 🆓 🔑
+*Frameworks and SDKs for building custom MCP servers and clients*
+
 - **[ContexaAI](https://www.contexaai.com/)** - Firebase for MCP servers: build, test, debug, and deploy MCP servers with OAuth support. 🔑 🆓 🇪🇺
 
  - **[Dummy MCP](https://dummymcp.com/)** - Create prototype MCP servers instantly: define tools and mock responses to test LLM interactions and iterate quickly. 🆓 🇪🇺 🔑
