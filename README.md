@@ -7,10 +7,10 @@
 
 ## Contents
 
- - [Private Registries (14)](#private-registries)
- - [Gateways & Proxies (24)](#gateways--proxies)
+ - [Private Registries (15)](#private-registries)
+ - [Gateways & Proxies (31)](#gateways--proxies)
  - [Build Tools & Frameworks (15)](#build-tools--frameworks)
- - [Security & Governance (8)](#security--governance)
+ - [Security & Governance (13)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
@@ -20,7 +20,7 @@
 
 - **[ACI.dev](https://aci.dev)** - Power your agentic IDE or AI agent with 600+ tools. The open-source tool-calling engine that drops into any agentic IDE or custom AI agent. 🔑 🛡️
 
-- **[Composio](https://composio.dev)** - Skills that evolve for your Agents. More than just integrations, 10,000+ tools that can adapt — turning automation into intuition. 📜 🆓 🔑
+- **[Composio](https://composio.dev)** - 500+ managed MCP servers powering 100,000+ developers. Unified auth, enterprise-vetted integrations, and SOC 2 Type II certified. 📜 🆓 🔑
 
 - **[Disco.dev](https://www.disco.dev)** - Integration hub to browse, connect, and share MCP tools for your AI agents. 🧪 🔑 🆓 
 
@@ -32,16 +32,18 @@
 
 - **[Klavis AI](https://www.klavis.ai/)** - Strata MCP server that guides AI agents through progressive tool discovery, addressing tool overload, context overload, and coverage gaps for reliable tool usage at any scale. 📜 🔑 🆓 🛡️
 
+- **[Kong MCP Registry](https://konghq.com/)** - Enterprise MCP registry within Kong Konnect for AI agent discovery and governance. Links MCP servers to underlying APIs with enterprise-grade controls. 🔑 🛡️ 📜
+
 - **[Make MCP](https://www.make.com/en)** - Integration module for connecting MCP servers to Make.com workflows. Enables workflow automations with MCP servers. 🆓 🔑 🇪🇺 📜 📘
 
 - **[Merge](https://www.merge.dev/)** - Unified API and Agent Handler to connect to hundreds of third-party tools across HRIS, ATS, CRM, Accounting, File Storage, and Ticketing. 📜 🏥 🇪🇺 📘 🔑 🛡️ 🆓
-
-- **[mcp.run](https://mcp.run)** - One platform for vertical AI across your organization. Instantly deploy MCP servers in the cloud for rapid prototyping or production use. 🛡️🆓 
 
 - **[[mcp]central.io](https://mcpcentral.io)** - Private registries, managed cloud solutions, and intelligent tooling for
   non-technical enterprise teams, plus public directory. 🧪 🆓 🔑 🛡️
 
 - **[Pipedream](https://mcp.pipedream.com/)** - AI developer toolkit for integrations: add 2,800+ APIs and 10,000+ tools to your assistant. 🆓 🇪🇺 📜 🏥 🔑
+
+- **[Runlayer](https://www.runlayer.com/)** - MCP security and management platform with threat detection, observability, and detailed permissions integrated with Okta and Entra. 🔑 🛡️ 📜 🏥
 
 - **[SuperMachine](https://supermachine.ai/)** - One-click hosted MCP servers with thousands of AI agent tools available instantly. Simple, managed setup and integration. 🔑
 
@@ -53,15 +55,21 @@
 
 - **[Arcade.dev](https://www.arcade.dev)** - AI Tool-calling Platform that securely connects AI to MCPs, APIs, data, and more. Build assistants that don't just chat – they get work done. 🔑 🆓 📜 🏥 💳
 
+- **[Bifrost](https://github.com/maximhq/bifrost)** - High-performance open-source LLM and MCP gateway with sub-100µs overhead. Unified API for 15+ providers with automatic fallbacks and load balancing. 🆓
+
 - **[catie-mcp](https://www.catiemcp.com/)** - Context-aware, configurable proxy for routing MCP JSON-RPC requests to appropriate backends based on request content. 🧪
 
  - **[Cloud MCP](https://cloudmcp.dev/)** - Enterprise MCP control plane providing secure, scalable infrastructure and granular access control. 🧪 🔑 🛡️ 📜 🇪🇺 🆓
- 
+
+- **[Docker MCP Gateway](https://github.com/docker/mcp-gateway)** - Open-source MCP gateway with container isolation, secrets management, and signature verification. Included in Docker Desktop. 🆓 🔑
+
  - **[Enkrypt AI](https://www.enkryptai.com/secure-mcp-gateway)** - The Security Layer Your MCP Server Needs. Open-source gateway delivering privacy, security, and governance for MCP integrations. 📜 🆓 🛡️
 
 - **[FLUJO](https://github.com/mario-andreschak/FLUJO)** - MCP hub/inspector with multi-model workflow and chat interface for complex agent workflows using MCP servers and tools. 🧪 
 
 - **[Golf (Enterprise MCP Gateway)](https://golf.dev/)** - Enterprise MCP gateway for centralized control, policy enforcement, SIEM integration, and PII/prompt-injection protection. 🛡️ 🔑 💳
+
+- **[Itential MCP Server](https://www.itential.com/cloud-platform/itential-mcp-server/)** - Governance and orchestration layer connecting AI agents to enterprise network infrastructure with RBAC, audit logging, and policy enforcement. 🔑 🛡️
 
 - **[Lasso MCP Gateway](https://www.lasso.security/)** - Protects every interaction with LLMs across your organization — simple, seamless, secure. 🛡️ 📜 📘 💳
 
@@ -84,12 +92,16 @@
  - **[NexusRouter](https://nexusrouter.com/)** - Unified endpoint to route MCP servers and LLMs; aggregate, govern, and control your AI stack. 🧪
  
  - **[Obot MCP Gateway](https://obot.ai/)** - Open-source MCP gateway providing a control plane to catalog, proxy, and manage MCP servers with SSO, RBAC, audit logging, and policy enforcement. 🔑 🛡️ 🆓
- 
+
+- **[Peta](https://peta.io/)** - Agent vault and zero-trust MCP gateway. Encrypted credential storage, scoped time-limited tokens, and human-in-the-loop approvals for high-risk operations. 🔑 🛡️
+
 - **[palma.ai](https://palma.ai/)** - Unlock enterprise data enabled AI agents using MCP & A2A. Supercharge your AI investments with our scalable and secure enterprise gateway for your AI agents. 🧪 🔑 🇪🇺
 
  - **[Storm MCP](https://stormmcp.ai/)** - Enterprise MCP gateway and management platform: secure, verified hub for curated MCP servers with observability and policy controls. 🛡️ 🔑 📜 📘 💳 🏥 🇪🇺
 
 - **[Traego](https://traego.ai)** - Supercharge your AI workflows with a single endpoint. 🧪
+
+- **[Traefik Hub MCP Gateway](https://traefik.io/solutions/mcp-gateway)** - Enterprise MCP gateway with Task-Based Access Control (TBAC) for three-dimensional authorization across tasks, tools, and transactions. 🔑 🛡️ 📜
 
 - **[TrueFoundry](https://www.truefoundry.com/mcp-gateway)** - Enterprise-grade MCP gateway with secure access, RBAC, observability, and dynamic policy enforcement. 🔑 🛡️ 📜 🏥 🇪🇺
 
@@ -98,6 +110,10 @@
 - **[Unla](https://github.com/AmoyLab/Unla)** - Lightweight gateway that turns existing MCP servers and APIs into MCP servers with zero code changes. 🧪 🔑
 
 - **[Webrix](https://www.webrix.ai)** - Secure MCP gateway to connect any AI agent with external and internal tools. SSO, RBAC, and full observability built-in. SaaS or On-Prem. 📜 🆓 🔑 🛡️
+
+- **[Workato Enterprise MCP](https://www.workato.com/agentic/mcp)** - Enterprise MCP platform with access to 12,000+ apps and 900,000 community recipes. Verified user access and unified orchestration. 🔑 🛡️ 📜 🏥
+
+- **[WSO2 MCP Gateway](https://wso2.com/api-manager/ai-gateway/)** - Unified API and AI gateway to expose existing APIs as MCP tools with guardrails, policy enforcement, and enterprise identity integration. 🔑 🛡️ 📜
 
 
 ## Build Tools & Frameworks
@@ -138,21 +154,29 @@
 
 - **[akto](https://www.akto.io/)** - Agentic MCP Security Platform. Automatically discover MCP servers and related API endpoints, run targeted security tests, and detect misconfigurations, threats, and sensitive data exposure in real time. 🇪🇺 📜 🏥 📘 🆓 🛡️
 
-- **[Invariant Labs](https://invariantlabs.ai/)** - Infrastructure and tooling for secure, reliable AI agents, including hosting, compliance, and security layers. 🛡️ 
+- **[Barndoor AI](https://barndoor.ai/)** - Enterprise MCP access control and governance with ToolIQ for intelligent tool routing. Blocks risky AI actions and provides compliance reporting with audit logs. 🔑 🛡️
+
+- **[Invariant Labs](https://invariantlabs.ai/)** - Acquired by Snyk (June 2025). Now part of Snyk Labs, providing agentic AI security with Guardrails transparent security layer and MCP vulnerability protection. 🛡️ 
 
 - **[Ithena MCP Governance SDK](https://www.ithena.one/)** - End-to-end observability for MCP tools: monitor requests, responses, errors, and performance without code changes. 🔑 🛡️ 🆓
 
 - **[MCP Audit](https://audit.agentity.com)** - Agentic IDE extension to log all of the copilot's MCP tool calls to a SIEM or centralized loging system. 🆓 🔑
 
+- **[Noma Security](https://noma.security/solutions/mcp-server-security/)** - Agentless MCP discovery and protection across sanctioned and shadow deployments. Supply chain scanning and compliance alignment with OWASP, MITRE Atlas, and NIST. 🛡️ 📜
+
 - **[Operant AI](https://www.operant.ai/solutions/mcp-gateway)** - Enterprise-Grade MCP Security. Real-time Transparency and Protection for your entire MCP Ecosystem. 🛡️ 📜
 
 - **[Pomerium](https://www.pomerium.com/)** - Zero Trust access for every identity - humans, services, and AI agents. Every request secured by policy, not perimeter. 🆓 🔑 🛡️ 🇪🇺 📜
+
+- **[Portkey MCP Gateway](https://portkey.ai/features/mcp)** - Open-source MCP control plane with centralized auth, access control, and observability. Single gateway for teams managing multiple MCP servers. 🆓 🔑 🛡️
 
 - **[Prefactor](https://prefactor.tech/)** - Native MCP Identity Layer for Modern SaaS. Secure, authorize, and audit AI agents — not just users. 🆓 🛡️ 🇪🇺 🏥 
 
 - **[scalekit](https://www.scalekit.com/)** - Modular auth platform for AI applications. Drop-in OAuth 2.1 specifically designed for MCP servers. 🆓 🔑 🛡️ 📜 🇪🇺 📘
 
- - **[SGNL](https://sgnl.ai/)** - Policy-based control plane for AI: govern access between agents, MCP servers, and enterprise data using identity and policies. 🔑 🛡️ 📜
+ - **[SGNL](https://sgnl.ai/)** - Acquired by CrowdStrike (January 2026, $740M). Continuous Identity platform for real-time access control across human, non-human, and AI identities. 🔑 🛡️ 📜
+
+- **[Zenity](https://zenity.io/)** - End-to-end security and governance platform for AI agents spanning SaaS, cloud, and endpoints. Fortune Cyber 60 (2026), Agentic AI Security Solution of the Year. 🛡️ 📜
 
 
 ## Infrastructure & Deployment
