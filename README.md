@@ -194,7 +194,7 @@
 
 - **[MCPcat](https://mcpcat.io/)** - Analytics platform for MCP server owners that helps developers and product owners build, improve, and monitor their MCP servers. 🧪 🆓 
 
-- **[NimbleTools](https://www.nimbletools.ai)** - MCP runtime for the enterprise. Use our cloud or bring your own (BYOC) to securely connect AI to all your tools, APIs, and data. 🆓 
+- **[mpak](https://mpak.dev)** - Open-source MCPB registry with built-in trust framework for securely publishing, hosting, and installing MCP server bundles. 🆓 🛡️
 
 - **[Shinzo Labs](https://shinzo.ai/)** - Complete observability for MCP servers: anonymous usage analytics, error tracking, and configurable data sanitization; GDPR/CPRA-friendly with self‑hosting options. 🛡️ 🇪🇺 🆓
 
