@@ -8,7 +8,7 @@
 ## Contents
 
  - [Private Registries (15)](#private-registries)
- - [Gateways & Proxies (31)](#gateways--proxies)
+ - [Gateways & Proxies (32)](#gateways--proxies)
  - [Build Tools & Frameworks (15)](#build-tools--frameworks)
  - [Security & Governance (14)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
@@ -82,6 +82,8 @@
 - **[MCP Manager](https://mcpmanager.ai/)** - Enforces policies, blocks rogue tool calls, and improves incident response to prevent AI risks.  🛡️ 🔑 📜 🏥 🇪🇺 📘 💳 
 
 - **[MCP-connect](https://github.com/EvalsOne/MCP-connect)** - Proxy/client to let cloud services call local stdio-based MCP servers over HTTP for easy workflow integration. 🧪
+
+- **[mcpproxy-go](https://github.com/smart-mcp-proxy/mcpproxy-go)** - Local-first MCP proxy with BM25 tool discovery, quarantine security, per-server Docker isolation, activity logging, and web UI. Routes multiple servers through single endpoint.
 
 - **[MetaMCP](https://github.com/metatool-ai/metamcp)** Open source. Proxy and aggregate multiple MCP servers into meta-MCPs, and host as SSE/SHTTP/OpenAPI endpoints with middleware, OAuth, and tool management. Stdio MCP servers hosting supported. 🔑 🧪 🆓
 
