@@ -13,6 +13,7 @@
  - [Security & Governance (14)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
+ - [Productivity & Collaboration (1)](#productivity--collaboration)
  - [Tutorials & Guides (2)](#tutorials--guides)
 
 ## Private Registries
@@ -219,6 +220,12 @@
 - **[PulseMCP](https://www.pulsemcp.com/)** - Browse and discover MCP use cases, servers, clients, and news. Keep up-to-date with the MCP ecosystem. 🆓 
 
 - **[Smithery](https://smithery.ai/)** - Gateway to 5000+ ready-made MCP servers with one-click deployment. 🆓
+
+## Productivity & Collaboration
+*AI-native productivity platforms and collaboration tools with MCP server support for enterprise workflows*
+
+- **[Taskade](https://taskade.com)** - AI-native workspace with official MCP server for enterprise project management, AI agent orchestration, and workflow automation. 50+ MCP tools for workspaces, projects, tasks, AI agents, and automations; REST API, webhooks, and OAuth support; used by teams at Fortune 500 companies. Install: `npx @taskade/mcp-server`. MCP: [github.com/taskade/mcp](https://github.com/taskade/mcp) | API: [developers.taskade.com](https://developers.taskade.com) | Security: [taskade.com/security](https://taskade.com/security) 🔑 🆓
+
 
 ## Tutorials & Guides
 *Enterprise-focused tutorials, implementation guides, and best practices for MCP deployment*
