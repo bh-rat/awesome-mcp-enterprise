@@ -227,7 +227,10 @@
 
 - **[Anthropic: Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol)** - Official course introducing MCP concepts, architecture, and hands‑on usage.
 
+## Testing & QA MCP Servers
+*Testing & QA MCP servers for analyzing test runs, debugging flaky failures, and managing manual test cases via AI agents*
 
+- **[testdino-mcp](https://github.com/testdino-hq/testdino-mcp)** – Playwright-focused test reporting and management MCP server that lets AI agents list and filter test runs, inspect flaky tests, and debug failures with historical patterns and rich artifacts. 🆓 🔑
 
 
 ## Resources
