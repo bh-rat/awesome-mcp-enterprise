@@ -9,7 +9,7 @@
 
  - [Private Registries (15)](#private-registries)
  - [Gateways & Proxies (31)](#gateways--proxies)
- - [Build Tools & Frameworks (15)](#build-tools--frameworks)
+ - [Build Tools & Frameworks (16)](#build-tools--frameworks)
  - [Security & Governance (14)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
@@ -140,6 +140,8 @@
 - **[mcp-use](https://github.com/mcp-use/mcp-use)** - Open-source toolkit to connect any LLM to any MCP server and build custom MCP agents with tool access. 🆓 
 
 - **[Naptha AI](https://auto-mcp.com/)** - Turn any agents, tools, or orchestrators into an MCP server in seconds; automates hosting and scaling from source or templates.
+
+- **[OpenAgents](https://github.com/openagents-org/openagents)** - Open-source platform for building AI agent networks with native MCP, A2A, WebSocket, gRPC, and HTTP support. 🆓
 
 - **[SpeakEasy](https://www.speakeasy.com/)** - API development platform for creating LLM-ready APIs. Polish OpenAPI specs, generate SDKs, and build MCP servers from your existing APIs. 🔑 📜 🆓
 
