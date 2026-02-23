@@ -162,6 +162,8 @@
 
 - **[Ithena MCP Governance SDK](https://www.ithena.one/)** - End-to-end observability for MCP tools: monitor requests, responses, errors, and performance without code changes. 🔑 🛡️ 🆓
 
+- **[leashed](https://github.com/dormstern/leashed)** - Open-source policy engine, audit log, and kill switch for AI agents. Allow/deny patterns, time limits, and emergency revocation. 🆓 🛡️
+
 - **[MCP Audit](https://audit.agentity.com)** - Agentic IDE extension to log all of the copilot's MCP tool calls to a SIEM or centralized loging system. 🆓 🔑
 
 - **[Noma Security](https://noma.security/solutions/mcp-server-security/)** - Agentless MCP discovery and protection across sanctioned and shadow deployments. Supply chain scanning and compliance alignment with OWASP, MITRE Atlas, and NIST. 🛡️ 📜
