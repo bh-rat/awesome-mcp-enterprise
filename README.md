@@ -53,6 +53,8 @@
 ## Gateways & Proxies
 *MCP gateways, proxies, and routing solutions for enterprise architectures. Most also provide security features like OAuth, authn/authz, and guardrails.*
 
+- **[Agent Gateway](https://github.com/OzorOwn/agent-gateway)** - Unified REST API proxy for 39+ AI agent microservices with built-in auth, rate limiting, and credit-based billing. Routes requests to wallets, DeFi, screenshots, webhooks, and more. 🆓
+
 - **[Arcade.dev](https://www.arcade.dev)** - AI Tool-calling Platform that securely connects AI to MCPs, APIs, data, and more. Build assistants that don't just chat – they get work done. 🔑 🆓 📜 🏥 💳
 
 - **[Bifrost](https://github.com/maximhq/bifrost)** - High-performance open-source LLM and MCP gateway with sub-100µs overhead. Unified API for 15+ providers with automatic fallbacks and load balancing. 🆓
