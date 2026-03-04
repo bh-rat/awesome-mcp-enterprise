@@ -220,6 +220,8 @@
 
 - **[Smithery](https://smithery.ai/)** - Gateway to 5000+ ready-made MCP servers with one-click deployment. 🆓
 
+- **[Agent Native Registry](https://agentnativeregistry.com)** - Rating system and remote MCP server scoring 100+ developer tools on AI agent compatibility (0-100). Tools: `search_tools`, `get_score`, `compare_tools`. Evaluates account creation, agent tooling, reliability, discovery, and pricing. 🆓
+
 ## Tutorials & Guides
 *Enterprise-focused tutorials, implementation guides, and best practices for MCP deployment*
 
