@@ -47,6 +47,8 @@
 
 - **[SuperMachine](https://supermachine.ai/)** - One-click hosted MCP servers with thousands of AI agent tools available instantly. Simple, managed setup and integration. 🔑
 
+- **[Xquik](https://github.com/Xquik-dev/x-twitter-scraper)** - X/Twitter data platform — enterprise MCP server, REST API, HMAC webhooks, 20 extraction tools, account monitoring. 🔑
+
 - **[Zapier MCP](https://zapier.com/mcp)** - Connect your AI to any app with Zapier MCP. The fastest way to let your AI assistant interact with thousands of apps. 🧪 🆓 🇪🇺 📜
 
 
