@@ -43,7 +43,7 @@
 
 - **[Pipedream](https://mcp.pipedream.com/)** - AI developer toolkit for integrations: add 2,800+ APIs and 10,000+ tools to your assistant. 🆓 🇪🇺 📜 🏥 🔑
 
-- **[Roundtable](https://roundtable.now)** - Multi-model AI debate platform with MCP endpoint (Streamable HTTP). GPT-4o, Claude, Gemini & 200+ models discuss and synthesize insight. Tools: consult, review_code, debug, architect, plan_implementation, assess_tradeoffs. 🆓 🔑
+- **[Roundtable](https://roundtable.now)** - Multi-model AI debate platform with MCP endpoint (Streamable HTTP). GPT-4o, Claude, Gemini & 200+ models discuss and synthesize insight. Tools: consult_council, review_code, debug_issue, design_architecture, plan_implementation, assess_tradeoffs. 🆓 🔑
 
 - **[Runlayer](https://www.runlayer.com/)** - MCP security and management platform with threat detection, observability, and detailed permissions integrated with Okta and Entra. 🔑 🛡️ 📜 🏥
 
