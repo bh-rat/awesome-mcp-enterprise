@@ -7,7 +7,7 @@
 
 ## Contents
 
- - [Private Registries (15)](#private-registries)
+ - [Private Registries (16)](#private-registries)
  - [Gateways & Proxies (31)](#gateways--proxies)
  - [Build Tools & Frameworks (15)](#build-tools--frameworks)
  - [Security & Governance (14)](#security--governance)
@@ -40,6 +40,8 @@
 
 - **[[mcp]central.io](https://mcpcentral.io)** - Private registries, managed cloud solutions, and intelligent tooling for
   non-technical enterprise teams, plus public directory. 🧪 🆓 🔑 🛡️
+
+- **[Omega Memory](https://github.com/omega-memory/omega-memory)** - Local-first persistent memory for AI agents. SQLite + ONNX embeddings, semantic search, auto-capture, checkpoint/resume. #1 on LongMemEval benchmark. 🔑 🛡️ 🆓 📘
 
 - **[Pipedream](https://mcp.pipedream.com/)** - AI developer toolkit for integrations: add 2,800+ APIs and 10,000+ tools to your assistant. 🆓 🇪🇺 📜 🏥 🔑
 
