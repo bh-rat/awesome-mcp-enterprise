@@ -5,6 +5,8 @@
 
 **Model Context Protocol (MCP)** is an open protocol that standardizes how applications give context to LLMs. This list is designed for all technical stakeholders exploring MCP solutions for building, finding, hosting, learning, securing, and using MCP servers and clients.
 
+> **Scope:** This list covers **infrastructure, platforms, and services for building, hosting, running, and securing MCP servers**, not MCP servers themselves. If your product is an MCP server or an agent framework, it does not belong here. See [Contributing](CONTRIBUTING.md) for details.
+
 ## Contents
 
  - [Private Registries (15)](#private-registries)

@@ -4,12 +4,29 @@ Thank you for your interest in contributing to Awesome MCP Enterprise! This guid
 
 ## Before You Submit
 
-Please ensure your submission meets these criteria:
+### Understanding the Scope
+
+This repository lists **infrastructure, platforms, and services for building, hosting, running, and securing MCP servers**. We do **not** list MCP servers themselves or agent frameworks that use MCP.
+
+**In scope:** tools and platforms that help enterprises:
+- Build and develop MCP servers (SDKs, frameworks, inspectors)
+- Host, deploy, and scale MCP servers (infrastructure, cloud platforms)
+- Secure, govern, and observe MCP servers (security, identity, audit)
+- Discover and manage MCP servers (registries, gateways, proxies, directories)
+
+**Out of scope:**
+- MCP servers themselves (e.g., "an MCP server for Slack" or "an agent with 50+ MCP tools")
+- Agent frameworks that consume MCP tools but don't provide MCP infrastructure
+- Badges, certifications, or branding additions to this README
+- New categories. We are not adding new sections at this time.
+
+> **Not sure?** Open an issue first to discuss whether your tool fits before submitting a PR.
 
 ### Required Criteria
- - **Production-Ready**: The tool/service must be in production or GA (General Availability) stage (beta tools may be accepted if clearly marked with 🧪)
+- **Production-Ready**: The tool/service must be in production or GA (General Availability) stage (beta tools may be accepted if clearly marked with 🧪)
 - **Actively Maintained**: Last update within 6 months, responsive to issues
 - **Clear Documentation**: Must have comprehensive documentation for enterprise deployment
+- **Working Links**: Your product website or repository must be live and functional
 - **MCP-Specific**: Must be specifically designed for or compatible with Model Context Protocol
 - **Enterprise-Focused**: Should address enterprise needs (security, compliance, scalability, etc.)
 
@@ -88,6 +105,8 @@ Resources (tutorials, blog posts, etc.) should:
 
 ## What We Don't Accept
 
+- **MCP servers or agent tools.** We list infrastructure for MCP, not MCP servers themselves.
+- **New categories.** We are not accepting new sections at this time.
 - Alpha/experimental tools
 - Purely promotional content
 - Duplicate entries
@@ -95,6 +114,7 @@ Resources (tutorials, blog posts, etc.) should:
 - Broken or dead links
 - Tools with no documentation
 - Submissions with incorrect formatting
+- Badges, certifications, or branding additions to the README
 
 ## Updating Existing Entries
 

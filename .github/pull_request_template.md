@@ -8,11 +8,13 @@
 [Brief explanation of why this tool is valuable for enterprises]
 
 ### Checklist
-- [ ] Tool is production-ready
+- [ ] This is MCP infrastructure (not an MCP server or agent framework)
+- [ ] This fits an existing category (not proposing a new section)
+- [ ] Tool is production-ready (or clearly marked as beta with 🧪)
+- [ ] All links are live and functional
 - [ ] Documentation is comprehensive
-- [ ] Compliance certifications are verified
+- [ ] Compliance certifications are verified (if claimed)
 - [ ] Entry follows the required format
 - [ ] Placed in correct category
 - [ ] Alphabetical order maintained
-- [ ] All links are working
-- [ ] Updated the count in the content section
+- [ ] Updated the count in the contents section
