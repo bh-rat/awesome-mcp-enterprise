@@ -208,6 +208,8 @@
 ## MCP Directories & Marketplaces
 *Curated collections and marketplaces of pre-built MCP servers for various integrations*
 
+- **[AgentRank](https://agentrank-ai.com)** - Live-scored directory of 25,000+ MCP servers, ranked daily by real GitHub maintenance signals (freshness, issue health, contributors, dependents, stars). Search by category or query. 🆓
+
 - **[Awesome MCP Servers](https://github.com/wong2/awesome-mcp-servers)** - Curated list of MCP servers, tools, and related resources. 🆓
 
 - **[Dexter MCP](https://www.dextermcp.net/)** - Comprehensive directory for Model Context Protocol servers and AI tools. Discover, compare, and implement the best AI technologies for your workflow. 🆓
