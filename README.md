@@ -51,6 +51,8 @@
 
 - **[Zapier MCP](https://zapier.com/mcp)** - Connect your AI to any app with Zapier MCP. The fastest way to let your AI assistant interact with thousands of apps. 🧪 🆓 🇪🇺 📜
 
+- **[Arch Tools](https://archtools.dev)** - 53 production-ready AI tools via MCP with x402 USDC micropayments. Web scraping, crypto data, AI generation, OCR, DNS, WHOIS, and more. 🔑
+
 
 ## Gateways & Proxies
 *MCP gateways, proxies, and routing solutions for enterprise architectures. Most also provide security features like OAuth, authn/authz, and guardrails.*
