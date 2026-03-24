@@ -151,6 +151,8 @@
 
 - **[xmcp](https://xmcp.dev/)** - TypeScript framework for building and shipping MCP servers. Integrates with Next.js and deploys with zero config on Vercel. 🆓 🔑
 
+- **[claw-army/claude-node](https://github.com/claw-army/claude-node)** - Python subprocess bridge for Claude Code CLI, giving Python code direct access to Claude Code native capabilities via stream-json.
+
 - **[Zuplo](http://zuplo.com/)** - API Management Platform that lets you build MCP servers, generate them from your existing APIs, secure them with policies, and handles the hosting. 🔑 📜 🆓
 
 ## Security & Governance
