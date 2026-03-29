@@ -12,7 +12,7 @@
  - [Private Registries (15)](#private-registries)
  - [Gateways & Proxies (32)](#gateways--proxies)
  - [Build Tools & Frameworks (15)](#build-tools--frameworks)
- - [Security & Governance (14)](#security--governance)
+ - [Security & Governance (15)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
@@ -155,6 +155,8 @@
 
 ## Security & Governance
 *Security, observability, guardrails, identity, and governance for MCP implementations*
+
+- **[Aegis](https://github.com/Acacian/aegis)** - Open-source MCP security proxy and governance server. Intercepts tool calls, enforces policies, detects rug-pull attacks (SHA-256 tool description pinning), and provides audit trails with policy evaluation exposed as MCP tools. 🆓 🛡️
 
 - **[Airlock](https://www.air-lock.ai/)** - Secure MCP gateway that connects AI agents to APIs with human-in-the-loop approval workflows, per-user authentication, observability, and budget controls for AI agent cost management. 🔑 🛡️ 🆓
 
