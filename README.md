@@ -182,6 +182,8 @@
 
  - **[SGNL](https://sgnl.ai/)** - Acquired by CrowdStrike (January 2026, $740M). Continuous Identity platform for real-time access control across human, non-human, and AI identities. 🔑 🛡️ 📜
 
+- **[SidClaw](https://sidclaw.com)** - Open-source approval and audit layer for MCP servers. Wraps any MCP server with policy evaluation, human-in-the-loop approval workflows, and hash-chain audit trails before tool execution. 13 framework integrations. 🆓 🛡️
+
 - **[Zenity](https://zenity.io/)** - End-to-end security and governance platform for AI agents spanning SaaS, cloud, and endpoints. Fortune Cyber 60 (2026), Agentic AI Security Solution of the Year. 🛡️ 📜
 
 
