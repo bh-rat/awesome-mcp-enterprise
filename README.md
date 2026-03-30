@@ -176,7 +176,9 @@
 
 - **[Portkey MCP Gateway](https://portkey.ai/features/mcp)** - Open-source MCP control plane with centralized auth, access control, and observability. Single gateway for teams managing multiple MCP servers. 🆓 🔑 🛡️
 
-- **[Prefactor](https://prefactor.tech/)** - Native MCP Identity Layer for Modern SaaS. Secure, authorize, and audit AI agents — not just users. 🆓 🛡️ 🇪🇺 🏥 
+- **[Prefactor](https://prefactor.tech/)** - Native MCP Identity Layer for Modern SaaS. Secure, authorize, and audit AI agents — not just users. 🆓 🛡️ 🇪🇺 🏥
+
+- **[Signet](https://github.com/Prismer-AI/signet)** - Cryptographic action receipts for AI agents. Signs every MCP tool call with Ed25519, hash-chained audit log. Client-side SigningTransport middleware — MCP servers don't need to change. Rust core + WASM + TypeScript. 🆓 📜 🛡️
 
 - **[scalekit](https://www.scalekit.com/)** - Modular auth platform for AI applications. Drop-in OAuth 2.1 specifically designed for MCP servers. 🆓 🔑 🛡️ 📜 🇪🇺 📘
 
