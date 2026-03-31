@@ -10,7 +10,7 @@
 ## Contents
 
  - [Private Registries (15)](#private-registries)
- - [Gateways & Proxies (32)](#gateways--proxies)
+ - [Gateways & Proxies (33)](#gateways--proxies)
  - [Build Tools & Frameworks (15)](#build-tools--frameworks)
  - [Security & Governance (14)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
@@ -102,6 +102,8 @@
 - **[palma.ai](https://palma.ai/)** - Unlock enterprise data enabled AI agents using MCP & A2A. Supercharge your AI investments with our scalable and secure enterprise gateway for your AI agents. 🧪 🔑 🇪🇺
 
  - **[Storm MCP](https://stormmcp.ai/)** - Enterprise MCP gateway and management platform: secure, verified hub for curated MCP servers with observability and policy controls. 🛡️ 🔑 📜 📘 💳 🏥 🇪🇺
+
+- **[ToolRouter](https://toolrouter.com)** - Give your AI agent superpowers with access to 150+ tools on demand with just one account. One API key replaces managing dozens of provider accounts. `npx -y toolrouter-mcp` | Remote: `https://api.toolrouter.com/mcp` 🔑 🆓
 
 - **[Traego](https://traego.ai)** - Supercharge your AI workflows with a single endpoint. 🧪
 
