@@ -160,6 +160,8 @@
 
 - **[akto](https://www.akto.io/)** - Agentic MCP Security Platform. Automatically discover MCP servers and related API endpoints, run targeted security tests, and detect misconfigurations, threats, and sensitive data exposure in real time. 🇪🇺 📜 🏥 📘 🆓 🛡️
 
+- **[Haldir](https://haldir.xyz)** - Guardian layer for AI agents: scoped sessions with spend limits (Gate), AES-encrypted secrets (Vault), immutable audit trail with anomaly detection (Watch), and proxy mode that intercepts every MCP tool call for policy enforcement. 10 MCP tools, REST API, human-in-the-loop approvals, webhooks. 98/100 on Smithery. 🆓 🛡️ [GitHub](https://github.com/ExposureGuard/haldir)
+
 - **[Barndoor AI](https://barndoor.ai/)** - Enterprise MCP access control and governance with ToolIQ for intelligent tool routing. Blocks risky AI actions and provides compliance reporting with audit logs. 🔑 🛡️
 
 - **[Invariant Labs](https://invariantlabs.ai/)** - Acquired by Snyk (June 2025). Now part of Snyk Labs, providing agentic AI security with Guardrails transparent security layer and MCP vulnerability protection. 🛡️ 
