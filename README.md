@@ -65,6 +65,8 @@
 
 - **[Docker MCP Gateway](https://github.com/docker/mcp-gateway)** - Open-source MCP gateway with container isolation, secrets management, and signature verification. Included in Docker Desktop. 🆓 🔑
 
+- **[Arbitus](https://github.com/arbitusgateway/arbitus)** - Open-source MCP security proxy. Per-agent auth (API key, JWT/OIDC, mTLS), rate limiting, payload filtering, HITL approval workflow, OPA/Rego policies, audit logging, circuit breaker, shadow mode. Rust-based, sub-millisecond overhead. 🆓 🔑 🛡️
+
  - **[Enkrypt AI](https://www.enkryptai.com/secure-mcp-gateway)** - The Security Layer Your MCP Server Needs. Open-source gateway delivering privacy, security, and governance for MCP integrations. 📜 🆓 🛡️
 
 - **[FLUJO](https://github.com/mario-andreschak/FLUJO)** - MCP hub/inspector with multi-model workflow and chat interface for complex agent workflows using MCP servers and tools. 🧪 
