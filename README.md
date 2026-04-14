@@ -181,6 +181,7 @@
 - **[scalekit](https://www.scalekit.com/)** - Modular auth platform for AI applications. Drop-in OAuth 2.1 specifically designed for MCP servers. 🆓 🔑 🛡️ 📜 🇪🇺 📘
 
  - **[SGNL](https://sgnl.ai/)** - Acquired by CrowdStrike (January 2026, $740M). Continuous Identity platform for real-time access control across human, non-human, and AI identities. 🔑 🛡️ 📜
+- **[ThumbGate](https://github.com/IgorGanapolsky/ThumbGate)** - Pre-action gates for AI coding agents; catches destructive operations before they hit your codebase. 🛡️ 🆓
 
 - **[Zenity](https://zenity.io/)** - End-to-end security and governance platform for AI agents spanning SaaS, cloud, and endpoints. Fortune Cyber 60 (2026), Agentic AI Security Solution of the Year. 🛡️ 📜
 
