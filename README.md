@@ -276,3 +276,4 @@ Contributions are welcome! Please read our [contribution guidelines](CONTRIBUTIN
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+- **[MRC Data](https://github.com/meacheal-ai/mrc-data)** - The first and only MCP server providing structured Chinese fashion supply chain intelligence for AI platforms. 3,000+ verified manufacturers, 350+ lab-tested fabrics, 170+ industrial clusters.
