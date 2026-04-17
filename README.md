@@ -218,6 +218,8 @@
 
 - **[MCP SO](https://mcp.so)** - Connect the world with MCP. Find awesome MCP servers. Build AI agents quickly. 🆓
 
+- **[Not Human Search](https://nothumansearch.ai)** - Agent-first search engine that indexes 8,000+ MCP servers and other agentically-readable sites, ranked by agentic readiness across 7 signals (llms.txt, OpenAPI, ai-plugin, MCP, structured API, robots.txt, schema.org). Includes a live `verify_mcp` JSON-RPC probe tool for validating unknown MCP endpoints before wiring them into production. Queryable via MCP (`https://nothumansearch.ai/mcp`), HTTP API, or browser. 🆓
+
 - **[OpenTools](https://opentools.com/registry)** - Public registry of AI tools and MCP servers for integration and deployment. Allows discovery and use of AI and MCP-compatible tools through a searchable registry. 🆓
 
 - **[PulseMCP](https://www.pulsemcp.com/)** - Browse and discover MCP use cases, servers, clients, and news. Keep up-to-date with the MCP ecosystem. 🆓 
@@ -249,7 +251,14 @@
 ### Developer Tools
 
 ### Blog Posts & Articles
-*Coming soon - submit a PR to add resources!*
+
+- **[The Agentic Accountability Gap](https://8bitconcepts.com/research/the-agentic-accountability-gap.html)** - Who's legally and organizationally on the hook when an agent makes the call? The gap most enterprise AI programs don't realize they have until something goes wrong. *(8bitconcepts)*
+
+- **[The Guardrails Gap](https://8bitconcepts.com/research/the-guardrails-gap.html)** - Why traditional enterprise AI safety frameworks break down the moment agents are allowed to act, not just answer. Includes a maturity model for graduating from "chat-only" to "actions-taken" governance. *(8bitconcepts)*
+
+- **[The Integration Tax](https://8bitconcepts.com/research/the-integration-tax.html)** - The hidden cost of wiring LLMs and agents into enterprise systems — from identity, auditing, and change management to vendor-lock contingency planning. *(8bitconcepts)*
+
+- **[The Hallucination Budget](https://8bitconcepts.com/research/the-hallucination-budget.html)** - Quantifying hallucination cost as an engineering metric (not a vibe) and choosing mitigation strategies that match actual enterprise risk tolerance. *(8bitconcepts)*
 
 ## Legend
 
