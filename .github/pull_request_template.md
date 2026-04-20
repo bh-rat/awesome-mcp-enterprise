@@ -1,20 +1,29 @@
-### Tool Name
-[Tool Name]
+<!--
+PRs without a pre-approved proposal issue will be closed.
+If you have not opened a Listing Proposal issue and received the `approved-for-pr` label, stop here and open an issue first.
+-->
+
+### Linked Proposal Issue
+Closes #<!-- issue number with the `approved-for-pr` label -->
+
+### Listing Name
+[Listing Name]
+
+### Which List
+- [ ] Main list (README.md)
+- [ ] Emerging (EMERGING.md)
 
 ### Category
-[Select: Private Registries / Directories / Build Tools / Infrastructure / Security / Gateways]
-
-### Why should this be included?
-[Brief explanation of why this tool is valuable for enterprises]
+[Private Registries / Gateways & Proxies / Build Tools & Frameworks / Security & Governance / Infrastructure & Deployment / MCP Directories & Marketplaces / Tutorials & Guides]
 
 ### Checklist
+- [ ] Linked proposal issue above is labeled `approved-for-pr`
+- [ ] Entry matches the one-sentence description approved in the issue
 - [ ] This is MCP infrastructure (not an MCP server or agent framework)
-- [ ] This fits an existing category (not proposing a new section)
-- [ ] Tool is production-ready (or clearly marked as beta with 🧪)
+- [ ] Placed in the correct category
+- [ ] Alphabetical order maintained within the category
+- [ ] Entry follows the required format (see CONTRIBUTING.md)
+- [ ] Only verifiable emojis included
+- [ ] Emerging entries include 🧪
+- [ ] Updated the count in the Contents section of README.md (main-list entries only)
 - [ ] All links are live and functional
-- [ ] Documentation is comprehensive
-- [ ] Compliance certifications are verified (if claimed)
-- [ ] Entry follows the required format
-- [ ] Placed in correct category
-- [ ] Alphabetical order maintained
-- [ ] Updated the count in the contents section

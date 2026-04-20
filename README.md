@@ -16,6 +16,7 @@
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
+ - [Emerging Tools 🧪](EMERGING.md)
 
 ## Private Registries
 *Ready-to-use pluggable MCP server implementations where MCP servers and tools are managed by the organization. They usually come with auth, guardrails, observability and more.*
@@ -269,7 +270,11 @@ Emojis are used to indicate key features and certifications:
 
 ## Contributing
 
-Contributions are welcome! Please read our [contribution guidelines](CONTRIBUTING.md) before submitting a PR.
+Contributions are welcome — please read our [contribution guidelines](CONTRIBUTING.md) first.
+
+**How entries are vetted:** The MCP ecosystem is young and quality varies widely, so we maintain two lists. The **main list above** requires evidence of enterprise readiness — named customers, verifiable compliance (SOC 2 / ISO 27001 / HIPAA), 6+ months GA, or documented production deployments (at least two of the four). Newer or early-stage projects live in **[EMERGING.md](EMERGING.md)** marked 🧪 while they mature.
+
+**Workflow is issue-first:** open a [Listing Proposal issue](.github/ISSUE_TEMPLATE/listing-proposal.yml) and wait for the `approved-for-pr` label before opening a PR. PRs opened without an approved proposal issue will be closed.
 
 ## License
 

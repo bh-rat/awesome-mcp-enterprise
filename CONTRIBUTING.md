@@ -2,6 +2,8 @@
 
 Thank you for your interest in contributing to Awesome MCP Enterprise! This guide will help you understand how to contribute effectively.
 
+> **Workflow is issue-first.** Open a [Listing Proposal issue](.github/ISSUE_TEMPLATE/listing-proposal.yml) and wait for the `approved-for-pr` label before opening a PR. PRs without an approved proposal will be closed.
+
 ## Before You Submit
 
 ### Understanding the Scope
@@ -19,11 +21,19 @@ This repository lists **infrastructure, platforms, and services for building, ho
 - Agent frameworks that consume MCP tools but don't provide MCP infrastructure
 - Badges, certifications, or branding additions to this README
 - New categories. We are not adding new sections at this time.
+- Blog posts & articles (section currently paused)
 
-> **Not sure?** Open an issue first to discuss whether your tool fits before submitting a PR.
+> **Not sure?** Open an issue first to discuss whether your listing fits before submitting a PR.
+
+### Two Lists
+
+We maintain two lists so contributors have a path in regardless of maturity stage. Placement is about evidence, not about the quality of your work.
+
+- **Main list (`README.md`)** — expected to meet **at least 2 of 4**: (1) named enterprise customers listed publicly, (2) verifiable compliance (SOC 2 / ISO 27001 / HIPAA / equivalent), (3) GA for 6+ months, (4) documented production deployments. Self-claims without links can't be verified, so please include sources.
+- **Emerging (`EMERGING.md`)** — MCP-native, enterprise-oriented projects that are still early — in beta, recently GA, or without public compliance documentation yet. Marked 🧪. Reviewed periodically; entries move to the main list as they mature.
 
 ### Required Criteria
-- **Production-Ready**: The tool/service must be in production or GA (General Availability) stage (beta tools may be accepted if clearly marked with 🧪)
+- **Production-Ready**: The tool/service must be in production or GA (General Availability) stage (beta tools may be accepted in Emerging if clearly marked with 🧪)
 - **Actively Maintained**: Last update within 6 months, responsive to issues
 - **Clear Documentation**: Must have comprehensive documentation for enterprise deployment
 - **Working Links**: Your product website or repository must be live and functional
@@ -35,41 +45,47 @@ This repository lists **infrastructure, platforms, and services for building, ho
 - Must have a working website or GitHub repository
 - Verifiable compliance certifications (if claimed)
 
-## How to Add a New Tool
+## How to Add a New Listing
 
-1. **Fork this repository**
-2. **Add your tool to the appropriate category** in README.md
-3. **Follow the exact format**:
+1. **Open a [Listing Proposal issue](.github/ISSUE_TEMPLATE/listing-proposal.yml)** — fill every field, including evidence links and which list (Main or Emerging)
+2. **Wait for triage** — maintainer labels the issue `approved-for-pr`, `needs-more-info`, or `declined`
+3. **Fork the repository** once approved
+4. **Add your listing to the appropriate category** in `README.md` (main) or `EMERGING.md` (emerging)
+5. **Follow the exact format**:
 
 ```markdown
-- **[Tool Name](https://website.com)** - One-line description focusing on unique value. 📜 🆓 🔑
+- **[Listing Name](https://website.com)** - One-line description focusing on unique value. 📜 🆓 🔑
 ```
 
-**Note:** Production stage is assumed by default. Only add 🧪 emoji for beta/non-production tools.
+**Note:** Production stage is assumed by default. Only add 🧪 emoji for beta/non-production tools (required for all Emerging entries).
 
-4. **Include appropriate emojis** from the legend (only if verified)
+6. **Include appropriate emojis** from the legend (only if verified)
    - Add emojis directly after the description
    - Include only emojis for features/certifications that are verifiable
-5. **Keep descriptions concise** - one sentence maximum
-6. **Maintain alphabetical order** within categories
-7. **Submit a Pull Request** with a clear title and description
+7. **Keep descriptions concise** - one sentence maximum
+8. **Maintain alphabetical order** within categories
+9. **Submit a Pull Request** linking the approved issue with `Closes #<issue-number>`
 
 ## Pull Request Template
 
 When submitting a PR, please use this template:
 
 ```markdown
-### Tool Name
-[Tool Name]
+### Linked Proposal Issue
+Closes #<issue-number>  <!-- must be labeled approved-for-pr -->
+
+### Listing Name
+[Listing Name]
+
+### Which List
+[Main list / Emerging]
 
 ### Category
 [Select: Private Registries / Directories / Build Tools / Infrastructure / Security / Gateways]
 
-### Why should this be included?
-[Brief explanation of why this tool is valuable for enterprises]
-
 ### Checklist
-- [ ] Tool is production-ready
+- [ ] Linked proposal issue is labeled `approved-for-pr`
+- [ ] Listing is production-ready (or marked 🧪 for Emerging)
 - [ ] Documentation is comprehensive
 - [ ] Compliance certifications are verified
 - [ ] Entry follows the required format
@@ -91,13 +107,13 @@ When adding emojis to your entry:
   - 🆓 Has Free Tier
   - 🔑 OAuth Support
   - 🛡️ Built-in Guardrails
-  - 🧪 Beta Stage (not production-ready)
-- Production stage is assumed - only add ⚠️ for beta/non-production tools
+  - 🧪 Beta Stage (not production-ready; required for Emerging entries)
+- Production stage is assumed - only add 🧪 for beta/non-production tools
 - Only include emojis for features/certifications you can verify with documentation
 
 ## Adding Resources
 
-Resources (tutorials, blog posts, etc.) should:
+The *Blog Posts & Articles* section is currently paused — do not submit entries for it. Tutorials & Guides submissions should:
 - Be high-quality and informative
 - Focus on enterprise use cases
 - Be from reputable sources
@@ -107,6 +123,8 @@ Resources (tutorials, blog posts, etc.) should:
 
 - **MCP servers or agent tools.** We list infrastructure for MCP, not MCP servers themselves.
 - **New categories.** We are not accepting new sections at this time.
+- **PRs without a pre-approved proposal issue.**
+- **Blog posts or articles** (section paused).
 - Alpha/experimental tools
 - Purely promotional content
 - Duplicate entries
