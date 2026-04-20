@@ -1,14 +1,14 @@
-# Emerging MCP Tools 🧪
+# Emerging MCP Listings 🧪
 
-> **What is this list?** A watch-this-space catalogue of MCP-native, enterprise-oriented tools that are still early in their journey. Everything here is 🧪 by default — in beta, recently GA, or without public compliance documentation yet. The [main list](README.md) has a stricter evidence bar; this list is where newer projects live while they mature.
+> **What is this list?** A watch-this-space catalogue of MCP-native, enterprise-oriented projects that are still early in their journey. Everything here is 🧪 by default — in beta, recently GA, or without public compliance documentation yet. The [main list](README.md) has a stricter evidence bar; this list is where newer projects live while they mature.
 
 > **How to read it:** An entry here means the project looks promising and worth watching. As with anything early-stage, evaluate carefully before depending on it in production.
 
-> **Moving to the main list:** Entries are reviewed periodically. As tools accumulate the evidence described in [CONTRIBUTING.md](CONTRIBUTING.md) — named customers, verifiable compliance, GA maturity, documented production use — they move to `README.md`. Entries that become inactive may be removed.
+> **Moving to the main list:** Entries are reviewed periodically. As projects accumulate the evidence described in [CONTRIBUTING.md](CONTRIBUTING.md) — named customers, verifiable compliance, GA maturity, documented production use — they move to `README.md`. Entries that become inactive may be removed.
 
 ## How to Propose an Emerging Entry
 
-Same as the main list: open a [Tool Proposal issue](.github/ISSUE_TEMPLATE/tool-proposal.yml), select **Emerging**, and wait for the `approved-for-pr` label before opening a PR. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Same as the main list: open a [Listing Proposal issue](.github/ISSUE_TEMPLATE/listing-proposal.yml), select **Emerging**, and wait for the `approved-for-pr` label before opening a PR. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Categories
 

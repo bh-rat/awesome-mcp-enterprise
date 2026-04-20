@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to Awesome MCP Enterprise! This guide will help you understand how to contribute effectively.
 
-> **Workflow is issue-first.** Open a [Tool Proposal issue](.github/ISSUE_TEMPLATE/tool-proposal.yml) and wait for the `approved-for-pr` label before opening a PR. PRs without an approved proposal will be closed.
+> **Workflow is issue-first.** Open a [Listing Proposal issue](.github/ISSUE_TEMPLATE/listing-proposal.yml) and wait for the `approved-for-pr` label before opening a PR. PRs without an approved proposal will be closed.
 
 ## Before You Submit
 
@@ -23,14 +23,14 @@ This repository lists **infrastructure, platforms, and services for building, ho
 - New categories. We are not adding new sections at this time.
 - Blog posts & articles (section currently paused)
 
-> **Not sure?** Open an issue first to discuss whether your tool fits before submitting a PR.
+> **Not sure?** Open an issue first to discuss whether your listing fits before submitting a PR.
 
 ### Two Lists
 
 We maintain two lists so contributors have a path in regardless of maturity stage. Placement is about evidence, not about the quality of your work.
 
 - **Main list (`README.md`)** — expected to meet **at least 2 of 4**: (1) named enterprise customers listed publicly, (2) verifiable compliance (SOC 2 / ISO 27001 / HIPAA / equivalent), (3) GA for 6+ months, (4) documented production deployments. Self-claims without links can't be verified, so please include sources.
-- **Emerging (`EMERGING.md`)** — MCP-native, enterprise-oriented tools that are still early — in beta, recently GA, or without public compliance documentation yet. Marked 🧪. Reviewed periodically; entries move to the main list as they mature.
+- **Emerging (`EMERGING.md`)** — MCP-native, enterprise-oriented projects that are still early — in beta, recently GA, or without public compliance documentation yet. Marked 🧪. Reviewed periodically; entries move to the main list as they mature.
 
 ### Required Criteria
 - **Production-Ready**: The tool/service must be in production or GA (General Availability) stage (beta tools may be accepted in Emerging if clearly marked with 🧪)
@@ -45,16 +45,16 @@ We maintain two lists so contributors have a path in regardless of maturity stag
 - Must have a working website or GitHub repository
 - Verifiable compliance certifications (if claimed)
 
-## How to Add a New Tool
+## How to Add a New Listing
 
-1. **Open a [Tool Proposal issue](.github/ISSUE_TEMPLATE/tool-proposal.yml)** — fill every field, including evidence links and which list (Main or Emerging)
+1. **Open a [Listing Proposal issue](.github/ISSUE_TEMPLATE/listing-proposal.yml)** — fill every field, including evidence links and which list (Main or Emerging)
 2. **Wait for triage** — maintainer labels the issue `approved-for-pr`, `needs-more-info`, or `declined`
 3. **Fork the repository** once approved
-4. **Add your tool to the appropriate category** in `README.md` (main) or `EMERGING.md` (emerging)
+4. **Add your listing to the appropriate category** in `README.md` (main) or `EMERGING.md` (emerging)
 5. **Follow the exact format**:
 
 ```markdown
-- **[Tool Name](https://website.com)** - One-line description focusing on unique value. 📜 🆓 🔑
+- **[Listing Name](https://website.com)** - One-line description focusing on unique value. 📜 🆓 🔑
 ```
 
 **Note:** Production stage is assumed by default. Only add 🧪 emoji for beta/non-production tools (required for all Emerging entries).
@@ -74,8 +74,8 @@ When submitting a PR, please use this template:
 ### Linked Proposal Issue
 Closes #<issue-number>  <!-- must be labeled approved-for-pr -->
 
-### Tool Name
-[Tool Name]
+### Listing Name
+[Listing Name]
 
 ### Which List
 [Main list / Emerging]
@@ -85,7 +85,7 @@ Closes #<issue-number>  <!-- must be labeled approved-for-pr -->
 
 ### Checklist
 - [ ] Linked proposal issue is labeled `approved-for-pr`
-- [ ] Tool is production-ready (or marked 🧪 for Emerging)
+- [ ] Listing is production-ready (or marked 🧪 for Emerging)
 - [ ] Documentation is comprehensive
 - [ ] Compliance certifications are verified
 - [ ] Entry follows the required format

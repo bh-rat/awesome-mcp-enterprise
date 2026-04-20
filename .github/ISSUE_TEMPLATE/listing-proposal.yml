@@ -1,6 +1,6 @@
-name: Tool Proposal
-description: Propose a new tool for Awesome MCP Enterprise (open this before any PR)
-title: "[Proposal] <Tool Name>"
+name: Listing Proposal
+description: Propose a new listing for Awesome MCP Enterprise (open this before any PR)
+title: "[Proposal] <Listing Name>"
 labels: ["proposal", "needs-triage"]
 body:
   - type: markdown
@@ -11,15 +11,15 @@ body:
         Do not open a PR yet. Wait for the `approved-for-pr` label.
 
   - type: input
-    id: tool-name
+    id: listing-name
     attributes:
-      label: Tool Name
+      label: Listing Name
       placeholder: e.g. Acme MCP Gateway
     validations:
       required: true
 
   - type: input
-    id: tool-url
+    id: listing-url
     attributes:
       label: Primary URL
       description: Product website or GitHub repo
@@ -105,9 +105,9 @@ body:
   - type: dropdown
     id: affiliation
     attributes:
-      label: Your affiliation with the tool
+      label: Your affiliation with this listing
       options:
-        - I work on / for this tool
+        - I work on / for this project
         - I have a financial interest (investor, advisor, contractor)
         - I am a user / customer
         - No affiliation

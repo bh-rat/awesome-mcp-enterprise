@@ -1,13 +1,13 @@
 <!--
 PRs without a pre-approved proposal issue will be closed.
-If you have not opened a Tool Proposal issue and received the `approved-for-pr` label, stop here and open an issue first.
+If you have not opened a Listing Proposal issue and received the `approved-for-pr` label, stop here and open an issue first.
 -->
 
 ### Linked Proposal Issue
 Closes #<!-- issue number with the `approved-for-pr` label -->
 
-### Tool Name
-[Tool Name]
+### Listing Name
+[Listing Name]
 
 ### Which List
 - [ ] Main list (README.md)

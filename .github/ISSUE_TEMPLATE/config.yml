@@ -2,4 +2,4 @@ blank_issues_enabled: false
 contact_links:
   - name: Contribution Guide
     url: https://github.com/bh-rat/awesome-mcp-enterprise/blob/main/CONTRIBUTING.md
-    about: Read this before proposing a tool. PRs without a pre-approved proposal issue will be closed.
+    about: Read this before proposing a listing. PRs without a pre-approved proposal issue will be closed.
