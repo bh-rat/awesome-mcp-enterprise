@@ -34,6 +34,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 - **[SidClaw](https://sidclaw.com)** - Open-source approval and audit layer that wraps MCP servers with policy evaluation, human-in-the-loop approval workflows, and hash-chain audit trails before tool execution. 🧪 🆓 🛡️
 
+- **[Signet](https://github.com/Prismer-AI/signet)** - SDK and middleware that gives agents Ed25519 identity and cryptographically signs every MCP tool call, with encrypted key storage and hash-chained audit logs. 🧪 🆓 🛡️
+
 - **[ThumbGate](https://github.com/IgorGanapolsky/ThumbGate)** - Pre-action gates for AI coding agents that catch destructive operations before they hit your codebase. 🧪 🆓 🛡️
 
 ### Infrastructure & Deployment
@@ -43,6 +45,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 ### MCP Directories & Marketplaces
 
 - **[AgentRank](https://agentrank-ai.com)** - Live-scored directory of 25,000+ MCP servers, ranked daily by GitHub maintenance signals (freshness, issue health, contributors, dependents, stars). 🧪 🆓
+
+- **[Clarvia](https://clarvia.art)** - MCP directory and quality scanner indexing 27,000+ servers, each ranked by an AEO score covering agent-readiness, discoverability, and API quality. 🧪 🆓
 
 - **[Not Human Search](https://nothumansearch.ai)** - Agent-first search engine indexing 8,000+ MCP servers and agentically-readable sites, ranked by agentic readiness across 7 signals; includes a `verify_mcp` JSON-RPC probe. 🧪 🆓
 
