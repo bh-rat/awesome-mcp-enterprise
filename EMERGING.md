@@ -20,7 +20,9 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 ### Gateways & Proxies
 
-*No entries yet.*
+- **[Arbitus](https://github.com/arbitusgateway/arbitus)** - Rust-based open-source MCP security proxy with per-agent auth (API key, JWT/OIDC, mTLS), rate limiting, payload filtering, HITL approvals, and OPA/Rego policies. 🧪 🆓 🔑 🛡️
+
+- **[ToolRouter](https://toolrouter.com)** - MCP gateway providing access to 150+ pre-integrated tools behind a single account and API key, replacing per-provider credential management. 🧪 🔑 🆓
 
 ### Build Tools & Frameworks
 
@@ -28,7 +30,11 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 ### Security & Governance
 
-*No entries yet.*
+- **[Haldir](https://haldir.xyz)** - Guardian layer for AI agents with scoped sessions, encrypted secrets vault, immutable audit trail, and proxy mode that intercepts every MCP tool call for policy enforcement. 🧪 🆓 🛡️
+
+- **[SidClaw](https://sidclaw.com)** - Open-source approval and audit layer that wraps MCP servers with policy evaluation, human-in-the-loop approval workflows, and hash-chain audit trails before tool execution. 🧪 🆓 🛡️
+
+- **[ThumbGate](https://github.com/IgorGanapolsky/ThumbGate)** - Pre-action gates for AI coding agents that catch destructive operations before they hit your codebase. 🧪 🆓 🛡️
 
 ### Infrastructure & Deployment
 
@@ -36,7 +42,9 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 ### MCP Directories & Marketplaces
 
-*No entries yet.*
+- **[AgentRank](https://agentrank-ai.com)** - Live-scored directory of 25,000+ MCP servers, ranked daily by GitHub maintenance signals (freshness, issue health, contributors, dependents, stars). 🧪 🆓
+
+- **[Not Human Search](https://nothumansearch.ai)** - Agent-first search engine indexing 8,000+ MCP servers and agentically-readable sites, ranked by agentic readiness across 7 signals; includes a `verify_mcp` JSON-RPC probe. 🧪 🆓
 
 ### Tutorials & Guides
 
