@@ -1,0 +1,127 @@
+name: Tool Proposal
+description: Propose a new tool for Awesome MCP Enterprise (open this before any PR)
+title: "[Proposal] <Tool Name>"
+labels: ["proposal", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Read [CONTRIBUTING.md](../blob/main/CONTRIBUTING.md) first.** Every field below is required. Proposals with missing evidence will be marked `needs-more-info` or `declined`.
+
+        Do not open a PR yet. Wait for the `approved-for-pr` label.
+
+  - type: input
+    id: tool-name
+    attributes:
+      label: Tool Name
+      placeholder: e.g. Acme MCP Gateway
+    validations:
+      required: true
+
+  - type: input
+    id: tool-url
+    attributes:
+      label: Primary URL
+      description: Product website or GitHub repo
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Target Category
+      description: Must be an existing category. We are not accepting new categories.
+      options:
+        - Private Registries
+        - Gateways & Proxies
+        - Build Tools & Frameworks
+        - Security & Governance
+        - Infrastructure & Deployment
+        - MCP Directories & Marketplaces
+        - Tutorials & Guides
+    validations:
+      required: true
+
+  - type: dropdown
+    id: list
+    attributes:
+      label: Which List
+      description: |
+        **Main** = meets 2+ of the quality bar (see CONTRIBUTING.md).
+        **Emerging** = MCP-native, enterprise-oriented, but still early — beta / recent GA / no public compliance / limited production evidence yet.
+      options:
+        - Main list (README.md)
+        - Emerging (EMERGING.md)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: One-sentence description
+      description: Exactly what will appear in the list. Must be one sentence.
+      placeholder: "Enterprise MCP gateway with OAuth, audit logging, and policy enforcement."
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: quality-bar
+    attributes:
+      label: Quality Bar Evidence (Main list — check all that apply)
+      description: |
+        Main-list entries must satisfy **at least 2**. Provide links in the next field. If submitting to Emerging, you can skip this.
+      options:
+        - label: Named enterprise customers publicly listed on the product site
+        - label: Verifiable compliance (SOC 2 Type II / ISO 27001 / HIPAA / equivalent)
+        - label: GA for 6+ months (not private beta, not early access)
+        - label: Documented production deployments (customer case studies, conference talks, published references)
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence Links
+      description: |
+        Paste direct URLs backing every claim above. "Trust me" does not count.
+        Example:
+          - Customers: https://acme.com/customers
+          - SOC 2: https://trust.acme.com
+          - GA date: https://acme.com/blog/ga-announcement
+      placeholder: |
+        - Customers: https://...
+        - Compliance: https://...
+        - GA: https://...
+    validations:
+      required: true
+
+  - type: textarea
+    id: why
+    attributes:
+      label: Why should this be included?
+      description: What enterprise problem does this solve that existing entries in the category don't?
+    validations:
+      required: true
+
+  - type: dropdown
+    id: affiliation
+    attributes:
+      label: Your affiliation with the tool
+      options:
+        - I work on / for this tool
+        - I have a financial interest (investor, advisor, contractor)
+        - I am a user / customer
+        - No affiliation
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Confirmations
+      options:
+        - label: This is MCP infrastructure, not an MCP server or agent framework
+        - label: I have read CONTRIBUTING.md
+        - label: I understand that PRs opened before this issue is labeled `approved-for-pr` will be closed
+          required: true
+        - label: All links above are live and accessible without login
+          required: true
