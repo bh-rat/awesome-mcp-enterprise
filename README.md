@@ -281,3 +281,5 @@ Contributions are welcome — please read our [contribution guidelines](CONTRIBU
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the contributors have waived all copyright and related or neighboring rights to this work.
+
+- [google-maps-scraper-mcp](https://github.com/khadinakbaronline/google-maps-scraper-mcp) — Google Maps MCP — scrape B2B leads, emails, phones, ratings and reviews inside any AI agent.
