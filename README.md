@@ -186,6 +186,8 @@
 - **[Zenity](https://zenity.io/)** - End-to-end security and governance platform for AI agents spanning SaaS, cloud, and endpoints. Fortune Cyber 60 (2026), Agentic AI Security Solution of the Year. 🛡️ 📜
 
 
+- **[EnigmAgent](https://github.com/Agnuxo1/EnigmAgent)** - AES-256-GCM + Argon2id encrypted local vault MCP server for AI agent credentials. Resolves `{{PLACEHOLDER}}` secrets at runtime so API keys never appear in prompts, logs, or CI pipelines. `npx enigmagent-mcp` 🔑 🏠
+
 ## Infrastructure & Deployment
 *Tools for deploying, scaling, and managing MCP servers in production*
 
