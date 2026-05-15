@@ -40,7 +40,7 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 ### Infrastructure & Deployment
 
-*No entries yet.*
+- **[Bridge](https://bridge.ls)** - Generates and hosts multi-tenant MCP servers for B2B SaaS from OpenAPI specs, handling auth (per-tenant OAuth credential isolation), hosting, and Streamable HTTP transport. 🧪 🆓 🔑
 
 ### MCP Directories & Marketplaces
 
