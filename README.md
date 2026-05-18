@@ -11,7 +11,7 @@
 
  - [Private Registries (15)](#private-registries)
  - [Gateways & Proxies (32)](#gateways--proxies)
- - [Build Tools & Frameworks (15)](#build-tools--frameworks)
+ - [Build Tools & Frameworks (16)](#build-tools--frameworks)
  - [Security & Governance (14)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
@@ -123,6 +123,8 @@
 
 ## Build Tools & Frameworks
 *Frameworks and SDKs for building custom MCP servers and clients*
+
+- **[click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp)** - Auto-convert any Click/typer CLI into an MCP server. 🆓 🔑
 
 - **[ContexaAI](https://www.contexaai.com/)** - Firebase for MCP servers: build, test, debug, and deploy MCP servers with OAuth support. 🔑 🆓 🇪🇺
 
