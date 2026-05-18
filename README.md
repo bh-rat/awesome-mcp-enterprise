@@ -11,7 +11,7 @@
 
  - [Private Registries (15)](#private-registries)
  - [Gateways & Proxies (32)](#gateways--proxies)
- - [Build Tools & Frameworks (15)](#build-tools--frameworks)
+ - [Build Tools & Frameworks (16)](#build-tools--frameworks)
  - [Security & Governance (14)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
@@ -147,6 +147,8 @@
 - **[Naptha AI](https://auto-mcp.com/)** - Turn any agents, tools, or orchestrators into an MCP server in seconds; automates hosting and scaling from source or templates.
 
 - **[SpeakEasy](https://www.speakeasy.com/)** - API development platform for creating LLM-ready APIs. Polish OpenAPI specs, generate SDKs, and build MCP servers from your existing APIs. 🔑 📜 🆓
+
+- **[Stainless](https://www.stainless.com/)** - Generate production SDKs and MCP servers from OpenAPI; powers the official SDKs/MCP for OpenAI, Anthropic, Cloudflare, Google, and Meta. 🔑 🆓
 
 - **[Tadata](https://tadata.com/)** - Convert your OpenAPI spec into MCP servers so your API is accessible to AI agents. 🧪 🆓 🔑
 
