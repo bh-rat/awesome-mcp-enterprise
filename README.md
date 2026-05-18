@@ -10,7 +10,7 @@
 ## Contents
 
  - [Private Registries (15)](#private-registries)
- - [Gateways & Proxies (32)](#gateways--proxies)
+ - [Gateways & Proxies (33)](#gateways--proxies)
  - [Build Tools & Frameworks (15)](#build-tools--frameworks)
  - [Security & Governance (14)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
@@ -55,6 +55,8 @@
 
 ## Gateways & Proxies
 *MCP gateways, proxies, and routing solutions for enterprise architectures. Most also provide security features like OAuth, authn/authz, and guardrails.*
+
+- **[agentgateway](https://agentgateway.dev/)** - Open-source, AI-native data plane for MCP and A2A in the Linux Foundation, with an enterprise distribution for security, observability, and governance at scale. 🆓 🔑 🛡️
 
 - **[Arcade.dev](https://www.arcade.dev)** - AI Tool-calling Platform that securely connects AI to MCPs, APIs, data, and more. Build assistants that don't just chat – they get work done. 🔑 🆓 📜 🏥 💳
 
