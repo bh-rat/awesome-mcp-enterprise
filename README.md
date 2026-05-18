@@ -12,6 +12,7 @@
  - [Private Registries (15)](#private-registries)
  - [Gateways & Proxies (32)](#gateways--proxies)
  - [Build Tools & Frameworks (15)](#build-tools--frameworks)
+ - [MCP Apps (3)](#mcp-apps)
  - [Security & Governance (14)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
@@ -142,7 +143,7 @@
 
 - **[mcpadapt](https://grll.github.io/mcpadapt/)** - Unlock 650+ MCP tools in your favorite agentic framework. Manages and adapts MCP server tools into the appropriate format for each agent framework. 🧪 🆓 
 
-- **[mcp-use](https://github.com/mcp-use/mcp-use)** - Open-source toolkit to connect any LLM to any MCP server and build custom MCP agents with tool access. 🆓 
+- **[mcp-use](https://github.com/mcp-use/mcp-use)** - Open-source toolkit (by Manufact) to connect any LLM to any MCP server and build custom MCP agents with tool access. 🆓 
 
 - **[Naptha AI](https://auto-mcp.com/)** - Turn any agents, tools, or orchestrators into an MCP server in seconds; automates hosting and scaling from source or templates.
 
@@ -153,6 +154,15 @@
 - **[xmcp](https://xmcp.dev/)** - TypeScript framework for building and shipping MCP servers. Integrates with Next.js and deploys with zero config on Vercel. 🆓 🔑
 
 - **[Zuplo](http://zuplo.com/)** - API Management Platform that lets you build MCP servers, generate them from your existing APIs, secure them with policies, and handles the hosting. 🔑 📜 🆓
+
+## MCP Apps
+*Platforms and SDKs for building, shipping, and running MCP Apps — the official MCP extension for interactive, UI-rich apps that render inside MCP clients like ChatGPT and Claude*
+
+- **[Manufact](https://manufact.com/)** - MCP cloud to build, deploy, and scale MCP Apps and servers in production across ChatGPT, Claude, and other agents (formerly mcp-use; 7M+ SDK downloads). 🆓 🔑
+
+- **[MCP-UI](https://mcpui.dev/)** - Open-source SDK for interactive MCP UI components that became the basis of the official MCP Apps extension; adopted by Postman, Shopify, Hugging Face, Goose, and ElevenLabs. 🆓
+
+- **[OpenAI Apps SDK](https://developers.openai.com/apps-sdk)** - Official SDK to build interactive apps in ChatGPT on MCP; reference implementation of the MCP Apps extension. 🧪 🔑
 
 ## Security & Governance
 *Security, observability, guardrails, identity, and governance for MCP implementations*
