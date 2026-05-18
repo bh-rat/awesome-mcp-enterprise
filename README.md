@@ -12,7 +12,7 @@
  - [Private Registries (15)](#private-registries)
  - [Gateways & Proxies (32)](#gateways--proxies)
  - [Build Tools & Frameworks (15)](#build-tools--frameworks)
- - [Security & Governance (14)](#security--governance)
+ - [Security & Governance (15)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
@@ -162,6 +162,8 @@
 - **[akto](https://www.akto.io/)** - Agentic MCP Security Platform. Automatically discover MCP servers and related API endpoints, run targeted security tests, and detect misconfigurations, threats, and sensitive data exposure in real time. 🇪🇺 📜 🏥 📘 🆓 🛡️
 
 - **[Barndoor AI](https://barndoor.ai/)** - Enterprise MCP access control and governance with ToolIQ for intelligent tool routing. Blocks risky AI actions and provides compliance reporting with audit logs. 🔑 🛡️
+
+- **[Descope](https://www.descope.com/)** - Drop-in auth for AI agents and MCP via Inbound Apps, with custom scopes and fine-grained, tool-level permissions. 🔑 🆓 📜
 
 - **[Invariant Labs](https://invariantlabs.ai/)** - Acquired by Snyk (June 2025). Now part of Snyk Labs, providing agentic AI security with Guardrails transparent security layer and MCP vulnerability protection. 🛡️ 
 
