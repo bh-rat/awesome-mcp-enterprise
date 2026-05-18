@@ -26,7 +26,7 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 ### Build Tools & Frameworks
 
-*No entries yet.*
+- **[click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp)** - Auto-convert any Click/typer CLI into an MCP server. 🧪 🆓 🔑
 
 ### Security & Governance
 
