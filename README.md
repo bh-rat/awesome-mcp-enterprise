@@ -12,7 +12,7 @@
  - [Private Registries (15)](#private-registries)
  - [Gateways & Proxies (32)](#gateways--proxies)
  - [Build Tools & Frameworks (15)](#build-tools--frameworks)
- - [Security & Governance (14)](#security--governance)
+ - [Security & Governance (15)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
@@ -156,6 +156,8 @@
 
 ## Security & Governance
 *Security, observability, guardrails, identity, and governance for MCP implementations*
+
+- **[Acuvity](https://acuvity.ai/)** - Acquired by Proofpoint (February 2026). Runtime AI and MCP security with agentic-workspace visibility, policy enforcement, and the open-source minibridge for MCP. 🛡️ 🆓
 
 - **[Airlock](https://www.air-lock.ai/)** - Secure MCP gateway that connects AI agents to APIs with human-in-the-loop approval workflows, per-user authentication, observability, and budget controls for AI agent cost management. 🔑 🛡️ 🆓
 
