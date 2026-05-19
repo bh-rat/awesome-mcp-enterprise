@@ -20,7 +20,7 @@ This repository lists **infrastructure, platforms, and services for building, ho
 - MCP servers themselves (e.g., "an MCP server for Slack" or "an agent with 50+ MCP tools")
 - Agent frameworks that consume MCP tools but don't provide MCP infrastructure
 - Badges, certifications, or branding additions to this README
-- New categories. We are not adding new sections at this time.
+- Contributor-proposed new categories. The category set is maintainer-curated; place listings in an existing section.
 - Blog posts & articles (section currently paused)
 
 > **Not sure?** Open an issue first to discuss whether your listing fits before submitting a PR.
@@ -81,7 +81,7 @@ Closes #<issue-number>  <!-- must be labeled approved-for-pr -->
 [Main list / Emerging]
 
 ### Category
-[Select: Private Registries / Directories / Build Tools / Infrastructure / Security / Gateways]
+[Select: Private Registries / Directories / Build Tools / MCP Apps / Infrastructure / Security / Gateways]
 
 ### Checklist
 - [ ] Linked proposal issue is labeled `approved-for-pr`
@@ -122,7 +122,7 @@ The *Blog Posts & Articles* section is currently paused — do not submit entrie
 ## What We Don't Accept
 
 - **MCP servers or agent tools.** We list infrastructure for MCP, not MCP servers themselves.
-- **New categories.** We are not accepting new sections at this time.
+- **Contributor-proposed new categories.** The category set is maintainer-curated; use an existing section.
 - **PRs without a pre-approved proposal issue.**
 - **Blog posts or articles** (section paused).
 - Alpha/experimental tools
