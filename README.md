@@ -11,7 +11,7 @@
 
  - [Private Registries (15)](#private-registries)
  - [Gateways & Proxies (33)](#gateways--proxies)
- - [Build Tools & Frameworks (15)](#build-tools--frameworks)
+ - [Build Tools & Frameworks (16)](#build-tools--frameworks)
  - [MCP Apps (3)](#mcp-apps)
  - [Security & Governance (14)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
@@ -145,11 +145,13 @@
 
 - **[mcpadapt](https://grll.github.io/mcpadapt/)** - Unlock 650+ MCP tools in your favorite agentic framework. Manages and adapts MCP server tools into the appropriate format for each agent framework. 🧪 🆓 
 
-- **[mcp-use](https://github.com/mcp-use/mcp-use)** - Open-source toolkit (by Manufact) to connect any LLM to any MCP server and build custom MCP agents with tool access. 🆓 
+- **[mcp-use](https://github.com/mcp-use/mcp-use)** - Open-source toolkit (by Manufact) to connect any LLM to any MCP server and build custom MCP agents with tool access. 🆓
 
 - **[Naptha AI](https://auto-mcp.com/)** - Turn any agents, tools, or orchestrators into an MCP server in seconds; automates hosting and scaling from source or templates.
 
 - **[SpeakEasy](https://www.speakeasy.com/)** - API development platform for creating LLM-ready APIs. Polish OpenAPI specs, generate SDKs, and build MCP servers from your existing APIs. 🔑 📜 🆓
+
+- **[Stainless](https://www.stainless.com/)** - Generate production SDKs and MCP servers from OpenAPI; powers the official SDKs/MCP for OpenAI, Anthropic, Cloudflare, Google, and Meta. 🔑 🆓
 
 - **[Tadata](https://tadata.com/)** - Convert your OpenAPI spec into MCP servers so your API is accessible to AI agents. 🧪 🆓 🔑
 
