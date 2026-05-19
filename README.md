@@ -11,7 +11,7 @@
 
  - [Private Registries (15)](#private-registries)
  - [Gateways & Proxies (33)](#gateways--proxies)
- - [Build Tools & Frameworks (15)](#build-tools--frameworks)
+ - [Build Tools & Frameworks (16)](#build-tools--frameworks)
  - [MCP Apps (3)](#mcp-apps)
  - [Security & Governance (14)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
