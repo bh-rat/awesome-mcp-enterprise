@@ -13,7 +13,7 @@
  - [Gateways & Proxies (33)](#gateways--proxies)
  - [Build Tools & Frameworks (16)](#build-tools--frameworks)
  - [MCP Apps (3)](#mcp-apps)
- - [Security & Governance (16)](#security--governance)
+ - [Security & Governance (17)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
@@ -200,6 +200,8 @@
  - **[SGNL](https://sgnl.ai/)** - Acquired by CrowdStrike (January 2026, $740M). Continuous Identity platform for real-time access control across human, non-human, and AI identities. 🔑 🛡️ 📜
 
 - **[Stytch](https://stytch.com/)** - Auth infrastructure with Connected Apps purpose-built as an OAuth provider for MCP servers, including Dynamic Client Registration. 🔑 🆓 📜
+
+- **[WorkOS](https://workos.com/mcp)** - Spec-compliant OAuth 2.1 authorization for MCP servers, plus SSO, SCIM, and audit logs; powers Anthropic, OpenAI, Cursor, and Perplexity. 🔑 🆓 📜
 
 - **[Zenity](https://zenity.io/)** - End-to-end security and governance platform for AI agents spanning SaaS, cloud, and endpoints. Fortune Cyber 60 (2026), Agentic AI Security Solution of the Year. 🛡️ 📜
 
