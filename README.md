@@ -13,7 +13,7 @@
  - [Gateways & Proxies (33)](#gateways--proxies)
  - [Build Tools & Frameworks (16)](#build-tools--frameworks)
  - [MCP Apps (3)](#mcp-apps)
- - [Security & Governance (17)](#security--governance)
+ - [Security & Governance (18)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
@@ -174,6 +174,8 @@
 - **[Airlock](https://www.air-lock.ai/)** - Secure MCP gateway that connects AI agents to APIs with human-in-the-loop approval workflows, per-user authentication, observability, and budget controls for AI agent cost management. 🔑 🛡️ 🆓
 
 - **[akto](https://www.akto.io/)** - Agentic MCP Security Platform. Automatically discover MCP servers and related API endpoints, run targeted security tests, and detect misconfigurations, threats, and sensitive data exposure in real time. 🇪🇺 📜 🏥 📘 🆓 🛡️
+
+- **[Auth0 for GenAI](https://auth0.com/ai)** - Identity layer for production MCP servers from Auth0 (Okta): user authentication, Token Vault, async authorization, and enterprise SSO. 🔑 📜 🆓
 
 - **[Barndoor AI](https://barndoor.ai/)** - Enterprise MCP access control and governance with ToolIQ for intelligent tool routing. Blocks risky AI actions and provides compliance reporting with audit logs. 🔑 🛡️
 
