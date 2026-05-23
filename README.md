@@ -10,9 +10,10 @@
 ## Contents
 
  - [Private Registries (15)](#private-registries)
- - [Gateways & Proxies (32)](#gateways--proxies)
- - [Build Tools & Frameworks (15)](#build-tools--frameworks)
- - [Security & Governance (15)](#security--governance)
+ - [Gateways & Proxies (33)](#gateways--proxies)
+ - [Build Tools & Frameworks (16)](#build-tools--frameworks)
+ - [MCP Apps (3)](#mcp-apps)
+ - [Security & Governance (18)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
@@ -55,6 +56,8 @@
 
 ## Gateways & Proxies
 *MCP gateways, proxies, and routing solutions for enterprise architectures. Most also provide security features like OAuth, authn/authz, and guardrails.*
+
+- **[agentgateway](https://agentgateway.dev/)** - Open-source, AI-native data plane for MCP and A2A in the Linux Foundation, with an enterprise distribution for security, observability, and governance at scale. 🆓 🔑 🛡️
 
 - **[Arcade.dev](https://www.arcade.dev)** - AI Tool-calling Platform that securely connects AI to MCPs, APIs, data, and more. Build assistants that don't just chat – they get work done. 🔑 🆓 📜 🏥 💳
 
@@ -142,17 +145,28 @@
 
 - **[mcpadapt](https://grll.github.io/mcpadapt/)** - Unlock 650+ MCP tools in your favorite agentic framework. Manages and adapts MCP server tools into the appropriate format for each agent framework. 🧪 🆓 
 
-- **[mcp-use](https://github.com/mcp-use/mcp-use)** - Open-source toolkit to connect any LLM to any MCP server and build custom MCP agents with tool access. 🆓 
+- **[mcp-use](https://github.com/mcp-use/mcp-use)** - Open-source toolkit (by Manufact) to connect any LLM to any MCP server and build custom MCP agents with tool access. 🆓
 
 - **[Naptha AI](https://auto-mcp.com/)** - Turn any agents, tools, or orchestrators into an MCP server in seconds; automates hosting and scaling from source or templates.
 
 - **[SpeakEasy](https://www.speakeasy.com/)** - API development platform for creating LLM-ready APIs. Polish OpenAPI specs, generate SDKs, and build MCP servers from your existing APIs. 🔑 📜 🆓
+
+- **[Stainless](https://www.stainless.com/)** - Generate production SDKs and MCP servers from OpenAPI; powers the official SDKs/MCP for OpenAI, Anthropic, Cloudflare, Google, and Meta. 🔑 🆓
 
 - **[Tadata](https://tadata.com/)** - Convert your OpenAPI spec into MCP servers so your API is accessible to AI agents. 🧪 🆓 🔑
 
 - **[xmcp](https://xmcp.dev/)** - TypeScript framework for building and shipping MCP servers. Integrates with Next.js and deploys with zero config on Vercel. 🆓 🔑
 
 - **[Zuplo](http://zuplo.com/)** - API Management Platform that lets you build MCP servers, generate them from your existing APIs, secure them with policies, and handles the hosting. 🔑 📜 🆓
+
+## MCP Apps
+*Platforms and SDKs for building, shipping, and running MCP Apps — the official MCP extension for interactive, UI-rich apps that render inside MCP clients like ChatGPT and Claude*
+
+- **[Manufact](https://manufact.com/)** - MCP cloud to build, deploy, and scale MCP Apps and servers in production across ChatGPT, Claude, and other agents (formerly mcp-use; 7M+ SDK downloads). 🆓 🔑
+
+- **[MCP-UI](https://mcpui.dev/)** - Open-source SDK for interactive MCP UI components that became the basis of the official MCP Apps extension; adopted by Postman, Shopify, Hugging Face, Goose, and ElevenLabs. 🆓
+
+- **[OpenAI Apps SDK](https://developers.openai.com/apps-sdk)** - Official SDK to build interactive apps in ChatGPT on MCP; reference implementation of the MCP Apps extension. 🧪 🔑
 
 ## Security & Governance
 *Security, observability, guardrails, identity, and governance for MCP implementations*
@@ -164,6 +178,8 @@
 - **[Auth0 for GenAI](https://auth0.com/ai)** - Identity layer for production MCP servers from Auth0 (Okta): user authentication, Token Vault, async authorization, and enterprise SSO. 🔑 📜 🆓
 
 - **[Barndoor AI](https://barndoor.ai/)** - Enterprise MCP access control and governance with ToolIQ for intelligent tool routing. Blocks risky AI actions and provides compliance reporting with audit logs. 🔑 🛡️
+
+- **[Descope](https://www.descope.com/)** - Drop-in auth for AI agents and MCP via Inbound Apps, with custom scopes and fine-grained, tool-level permissions. 🔑 🆓 📜
 
 - **[Invariant Labs](https://invariantlabs.ai/)** - Acquired by Snyk (June 2025). Now part of Snyk Labs, providing agentic AI security with Guardrails transparent security layer and MCP vulnerability protection. 🛡️ 
 
@@ -184,6 +200,10 @@
 - **[scalekit](https://www.scalekit.com/)** - Modular auth platform for AI applications. Drop-in OAuth 2.1 specifically designed for MCP servers. 🆓 🔑 🛡️ 📜 🇪🇺 📘
 
  - **[SGNL](https://sgnl.ai/)** - Acquired by CrowdStrike (January 2026, $740M). Continuous Identity platform for real-time access control across human, non-human, and AI identities. 🔑 🛡️ 📜
+
+- **[Stytch](https://stytch.com/)** - Auth infrastructure with Connected Apps purpose-built as an OAuth provider for MCP servers, including Dynamic Client Registration. 🔑 🆓 📜
+
+- **[WorkOS](https://workos.com/mcp)** - Spec-compliant OAuth 2.1 authorization for MCP servers, plus SSO, SCIM, and audit logs; powers Anthropic, OpenAI, Cursor, and Perplexity. 🔑 🆓 📜
 
 - **[Zenity](https://zenity.io/)** - End-to-end security and governance platform for AI agents spanning SaaS, cloud, and endpoints. Fortune Cyber 60 (2026), Agentic AI Security Solution of the Year. 🛡️ 📜
 
