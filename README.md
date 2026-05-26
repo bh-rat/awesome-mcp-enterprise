@@ -206,6 +206,7 @@
 - **[WorkOS](https://workos.com/mcp)** - Spec-compliant OAuth 2.1 authorization for MCP servers, plus SSO, SCIM, and audit logs; powers Anthropic, OpenAI, Cursor, and Perplexity. 🔑 🆓 📜
 
 - **[Zenity](https://zenity.io/)** - End-to-end security and governance platform for AI agents spanning SaaS, cloud, and endpoints. Fortune Cyber 60 (2026), Agentic AI Security Solution of the Year. 🛡️ 📜
+- [HOL Guard](https://github.com/hashgraph-online/hol-guard) 🐍 ☁️/🏠 - Local-first runtime security for AI coding agents. Intercepts shell commands, secret reads, and MCP changes before execution with configurable protection levels.
 
 
 ## Infrastructure & Deployment
