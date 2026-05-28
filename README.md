@@ -135,6 +135,10 @@
 
 - **[FastMCP](https://gofastmcp.com/)** - The fast, Pythonic way to build MCP servers and clients with comprehensive tooling. 🆓 🔑
 
+- **[futureagi-mcp-server](https://github.com/future-agi/futureagi-mcp-server)** - Official Future AGI MCP server exposing evals (50+ metrics), datasets, synthetic data, and runtime guardrails (Toxicity, Tone, Sexism, Prompt Injection, Data Privacy). Python, `uvx futureagi-mcp-server`. 🆓 🛡️
+
+- **[Future AGI](https://github.com/future-agi/future-agi)** - Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails in one feedback loop. 🆓 🛡️
+
 - **[Golf.dev](https://golf.dev/)** - Turn your code into spec-compliant MCP servers with zero boilerplate. 🔑 🛡️ 🆓
 
 - **[Lean MCP](https://leanmcp.com/)** - Lightweight toolkit for quickly building MCP‑compliant servers without heavy dependencies. 
