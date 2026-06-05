@@ -203,6 +203,8 @@
 
 - **[Stytch](https://stytch.com/)** - Auth infrastructure with Connected Apps purpose-built as an OAuth provider for MCP servers, including Dynamic Client Registration. 🔑 🆓 📜
 
+- **[Tuning Engines](https://www.tuningengines.com/)** - Control and evidence layer for enterprise MCP and agent traffic with registry sync, per-tenant RBAC, policy decisions, approvals, traces, cost analytics, and safe runtime state references. 🔑 🛡️ 📜
+
 - **[WorkOS](https://workos.com/mcp)** - Spec-compliant OAuth 2.1 authorization for MCP servers, plus SSO, SCIM, and audit logs; powers Anthropic, OpenAI, Cursor, and Perplexity. 🔑 🆓 📜
 
 - **[Zenity](https://zenity.io/)** - End-to-end security and governance platform for AI agents spanning SaaS, cloud, and endpoints. Fortune Cyber 60 (2026), Agentic AI Security Solution of the Year. 🛡️ 📜
