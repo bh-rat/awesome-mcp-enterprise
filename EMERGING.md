@@ -22,6 +22,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 - **[Arbitus](https://github.com/arbitusgateway/arbitus)** - Rust-based open-source MCP security proxy with per-agent auth (API key, JWT/OIDC, mTLS), rate limiting, payload filtering, HITL approvals, and OPA/Rego policies. 🧪 🆓 🔑 🛡️
 
+- **[Magertron MCP Orchestrator](https://github.com/curtismager20/magertron-mcpm)** - Kubernetes-native MCP gateway and orchestrator with Envoy v3 xDS session-affinity routing, leader-elected HA, per-tool RBAC, OCSF-aligned audit logs for SIEM, and SSO/SCIM; Helm chart open-sourced under Apache 2.0. 🧪 🆓 🔑 🛡️
+
 - **[ToolRouter](https://toolrouter.com)** - MCP gateway providing access to 150+ pre-integrated tools behind a single account and API key, replacing per-provider credential management. 🧪 🔑 🆓
 
 ### Build Tools & Frameworks
@@ -30,6 +32,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 ### Security & Governance
 
+- **[Dominion Observatory](https://dominionobservatory.com)** - Behavioral trust scoring for 14,820+ MCP servers, with per-call attestation receipts, SLA monitoring, and compliance reporting to inform tool-call decisions before execution. 🧪 🆓 🛡️
+
 - **[Haldir](https://haldir.xyz)** - Guardian layer for AI agents with scoped sessions, encrypted secrets vault, immutable audit trail, and proxy mode that intercepts every MCP tool call for policy enforcement. 🧪 🆓 🛡️
 
 - **[SidClaw](https://sidclaw.com)** - Open-source approval and audit layer that wraps MCP servers with policy evaluation, human-in-the-loop approval workflows, and hash-chain audit trails before tool execution. 🧪 🆓 🛡️
@@ -37,6 +41,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 - **[Signet](https://github.com/Prismer-AI/signet)** - SDK and middleware that gives agents Ed25519 identity and cryptographically signs every MCP tool call, with encrypted key storage and hash-chained audit logs. 🧪 🆓 🛡️
 
 - **[ThumbGate](https://github.com/IgorGanapolsky/ThumbGate)** - Pre-action gates for AI coding agents that catch destructive operations before they hit your codebase. 🧪 🆓 🛡️
+
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz/mcp)** - Solana-native agent trust scoring and x402 micropayment verification via remote MCP server. Provides free on-chain preflight checks and paid signed V5 trust receipts settled on Solana in <1s. No installation required — connect via `https://intel.twzrd.xyz/mcp`. 🧪 🆓 🛡️
 
 ### Infrastructure & Deployment
 
