@@ -30,6 +30,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 ### Security & Governance
 
+- **[Dominion Observatory](https://dominionobservatory.com)** - Behavioral trust scoring for 14,820+ MCP servers, with per-call attestation receipts, SLA monitoring, and compliance reporting to inform tool-call decisions before execution. 🧪 🆓 🛡️
+
 - **[Haldir](https://haldir.xyz)** - Guardian layer for AI agents with scoped sessions, encrypted secrets vault, immutable audit trail, and proxy mode that intercepts every MCP tool call for policy enforcement. 🧪 🆓 🛡️
 
 - **[SidClaw](https://sidclaw.com)** - Open-source approval and audit layer that wraps MCP servers with policy evaluation, human-in-the-loop approval workflows, and hash-chain audit trails before tool execution. 🧪 🆓 🛡️
