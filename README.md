@@ -11,7 +11,7 @@
 
  - [Private Registries (15)](#private-registries)
  - [Gateways & Proxies (33)](#gateways--proxies)
- - [Build Tools & Frameworks (16)](#build-tools--frameworks)
+ - [Build Tools & Frameworks (17)](#build-tools--frameworks)
  - [MCP Apps (3)](#mcp-apps)
  - [Security & Governance (19)](#security--governance)
  - [Infrastructure & Deployment (8)](#infrastructure--deployment)
@@ -148,6 +148,8 @@
 - **[mcp-use](https://github.com/mcp-use/mcp-use)** - Open-source toolkit (by Manufact) to connect any LLM to any MCP server and build custom MCP agents with tool access. 🆓
 
 - **[Naptha AI](https://auto-mcp.com/)** - Turn any agents, tools, or orchestrators into an MCP server in seconds; automates hosting and scaling from source or templates.
+
+- **[Postman MCP Generator](https://www.postman.com/explore/mcp-generator)** - Generate MCP servers from public or private APIs in the Postman API Network, with built-in testing and enterprise governance. 🔑 📜 🆓
 
 - **[SpeakEasy](https://www.speakeasy.com/)** - API development platform for creating LLM-ready APIs. Polish OpenAPI specs, generate SDKs, and build MCP servers from your existing APIs. 🔑 📜 🆓
 
