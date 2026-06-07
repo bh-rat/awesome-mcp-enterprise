@@ -22,6 +22,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 - **[Arbitus](https://github.com/arbitusgateway/arbitus)** - Rust-based open-source MCP security proxy with per-agent auth (API key, JWT/OIDC, mTLS), rate limiting, payload filtering, HITL approvals, and OPA/Rego policies. 🧪 🆓 🔑 🛡️
 
+- **[Magertron MCP Orchestrator](https://github.com/curtismager20/magertron-mcpm)** - Kubernetes-native MCP gateway and orchestrator with Envoy v3 xDS session-affinity routing, leader-elected HA, per-tool RBAC, OCSF-aligned audit logs for SIEM, and SSO/SCIM; Helm chart open-sourced under Apache 2.0. 🧪 🆓 🔑 🛡️
+
 - **[ToolRouter](https://toolrouter.com)** - MCP gateway providing access to 150+ pre-integrated tools behind a single account and API key, replacing per-provider credential management. 🧪 🔑 🆓
 
 ### Build Tools & Frameworks
@@ -29,6 +31,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 - **[click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp)** - Auto-convert any Click/typer CLI into an MCP server. 🧪 🆓 🔑
 
 ### Security & Governance
+
+- **[Dominion Observatory](https://dominionobservatory.com)** - Behavioral trust scoring for 14,820+ MCP servers, with per-call attestation receipts, SLA monitoring, and compliance reporting to inform tool-call decisions before execution. 🧪 🆓 🛡️
 
 - **[Haldir](https://haldir.xyz)** - Guardian layer for AI agents with scoped sessions, encrypted secrets vault, immutable audit trail, and proxy mode that intercepts every MCP tool call for policy enforcement. 🧪 🆓 🛡️
 
