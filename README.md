@@ -205,6 +205,8 @@
 
 - **[Stytch](https://stytch.com/)** - Auth infrastructure with Connected Apps purpose-built as an OAuth provider for MCP servers, including Dynamic Client Registration. 🔑 🆓 📜
 
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** - On-chain trust scoring and identity verification for AI agent wallets on Solana. Provides `score_agent` and `preflight_check` MCP tools for free, plus a paid `get_trust_receipt` for x402 payment verification. 🛡️ 🆓
+
 - **[WorkOS](https://workos.com/mcp)** - Spec-compliant OAuth 2.1 authorization for MCP servers, plus SSO, SCIM, and audit logs; powers Anthropic, OpenAI, Cursor, and Perplexity. 🔑 🆓 📜
 
 - **[Zenity](https://zenity.io/)** - End-to-end security and governance platform for AI agents spanning SaaS, cloud, and endpoints. Fortune Cyber 60 (2026), Agentic AI Security Solution of the Year. 🛡️ 📜
