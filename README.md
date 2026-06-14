@@ -160,6 +160,7 @@
 - **[xmcp](https://xmcp.dev/)** - TypeScript framework for building and shipping MCP servers. Integrates with Next.js and deploys with zero config on Vercel. 🆓 🔑
 
 - **[Zuplo](http://zuplo.com/)** - API Management Platform that lets you build MCP servers, generate them from your existing APIs, secure them with policies, and handles the hosting. 🔑 📜 🆓
+- [Helium MCP](https://github.com/connerlambden/helium-mcp) — Real-time news with 37-dimension bias scoring, ML options pricing, and live market data. [Interactive demo](https://connerlambden.github.io/helium-news-explorer/) · [REST API](https://heliumtrades.com/mcp-page/)
 
 ## MCP Apps
 *Platforms and SDKs for building, shipping, and running MCP Apps — the official MCP extension for interactive, UI-rich apps that render inside MCP clients like ChatGPT and Claude*
