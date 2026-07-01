@@ -175,6 +175,8 @@
 
 - **[Acuvity](https://acuvity.ai/)** - Acquired by Proofpoint (February 2026). Runtime AI and MCP security with agentic-workspace visibility, policy enforcement, and the open-source minibridge for MCP. 🛡️ 🆓
 
+- **[AgentX](https://agentx-core.com)** - Keyless agent firewall for MCP: wrap any server in one line of mcp.json and it blocks catastrophic tool calls (destructive SQL, SSRF, secret/PII reads, rm -rf, path traversal) before they reach the server, and keeps the agent's run alive instead of dying on the block. No API key, nothing leaves your machine. 🛡️ 🆓
+
 - **[Airlock](https://www.air-lock.ai/)** - Secure MCP gateway that connects AI agents to APIs with human-in-the-loop approval workflows, per-user authentication, observability, and budget controls for AI agent cost management. 🔑 🛡️ 🆓
 
 - **[akto](https://www.akto.io/)** - Agentic MCP Security Platform. Automatically discover MCP servers and related API endpoints, run targeted security tests, and detect misconfigurations, threats, and sensitive data exposure in real time. 🇪🇺 📜 🏥 📘 🆓 🛡️
