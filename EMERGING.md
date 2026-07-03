@@ -36,6 +36,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 - **[Haldir](https://haldir.xyz)** - Guardian layer for AI agents with scoped sessions, encrypted secrets vault, immutable audit trail, and proxy mode that intercepts every MCP tool call for policy enforcement. 🧪 🆓 🛡️
 
+- **[mcp-audit](https://github.com/adudley78/mcp-audit)** - Open-source CLI scanner for MCP server configurations that detects tool poisoning, credential leaks, supply-chain risks, and cross-server attack paths across major MCP clients. 🧪 🆓 🛡️
+
 - **[SidClaw](https://sidclaw.com)** - Open-source approval and audit layer that wraps MCP servers with policy evaluation, human-in-the-loop approval workflows, and hash-chain audit trails before tool execution. 🧪 🆓 🛡️
 
 - **[Signet](https://github.com/Prismer-AI/signet)** - SDK and middleware that gives agents Ed25519 identity and cryptographically signs every MCP tool call, with encrypted key storage and hash-chained audit logs. 🧪 🆓 🛡️
