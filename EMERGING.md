@@ -20,6 +20,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 ### Gateways & Proxies
 
+- **[AnythingMCP](https://github.com/HelpCode-ai/anythingmcp)** - Self-hosted, open-source MCP gateway that turns any REST/SOAP/GraphQL/SQL API or MCP server into governed connectors, with OAuth2, RBAC, and full audit logging. 🧪 🆓 🔑 🛡️
+
 - **[Arbitus](https://github.com/arbitusgateway/arbitus)** - Rust-based open-source MCP security proxy with per-agent auth (API key, JWT/OIDC, mTLS), rate limiting, payload filtering, HITL approvals, and OPA/Rego policies. 🧪 🆓 🔑 🛡️
 
 - **[Magertron MCP Orchestrator](https://github.com/curtismager20/magertron-mcpm)** - Kubernetes-native MCP gateway and orchestrator with Envoy v3 xDS session-affinity routing, leader-elected HA, per-tool RBAC, OCSF-aligned audit logs for SIEM, and SSO/SCIM; Helm chart open-sourced under Apache 2.0. 🧪 🆓 🔑 🛡️
