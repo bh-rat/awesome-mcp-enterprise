@@ -72,6 +72,7 @@
  - **[Enkrypt AI](https://www.enkryptai.com/secure-mcp-gateway)** - The Security Layer Your MCP Server Needs. Open-source gateway delivering privacy, security, and governance for MCP integrations. 📜 🆓 🛡️
 
 - **[FLUJO](https://github.com/mario-andreschak/FLUJO)** - MCP hub/inspector with multi-model workflow and chat interface for complex agent workflows using MCP servers and tools. 🧪 
+- **[Future AGI](https://github.com/future-agi/future-agi)** - Open-source LLM and MCP gateway with OAuth, MCP security guardrails (mcpsec, PII and prompt-injection protection), per-call tracing, and automated evals to score tool and model outputs in production. 🆓 🔑 🛡️
 
 - **[Golf (Enterprise MCP Gateway)](https://golf.dev/)** - Enterprise MCP gateway for centralized control, policy enforcement, SIEM integration, and PII/prompt-injection protection. 🛡️ 🔑 💳
 
