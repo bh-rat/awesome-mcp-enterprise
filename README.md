@@ -266,6 +266,7 @@
 ### Official Documentation
 - [MCP Official Documentation](https://modelcontextprotocol.io/docs)
 - [MCP Specification](https://spec.modelcontextprotocol.io/)
+- [MAQAMI Travel](https://github.com/negm17111995/mcp-server) - Hotel and flight booking MCP server with direct booking links for 249 countries.
 
 ### Official Tools
 - **[MCP Inspector](https://modelcontextprotocol.io/legacy/tools/inspector)** - Web-based tool to inspect and interact with MCP servers in real time. 🆓
