@@ -38,6 +38,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 - **[Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard)** - MIT-licensed local Rust scanner and MCP proxy that wraps stdio MCP servers and inspects tool-call arguments for prompt injection, credential leakage, and risky actions before execution. 🧪 🆓 🛡️
 
+- **[Clay Seal](https://github.com/clayseal/clayseal-identity)** - Attested agent identity and Biscuit capability tokens sender-constrained to a holder key, letting an MCP server authorize each tool call offline and rendering a copied token inert; Python guard and JavaScript verifier. 🧪 🆓 🛡️
+
 - **[Dominion Observatory](https://dominionobservatory.com)** - Behavioral trust scoring for 14,820+ MCP servers, with per-call attestation receipts, SLA monitoring, and compliance reporting to inform tool-call decisions before execution. 🧪 🆓 🛡️
 
 - **[Haldir](https://haldir.xyz)** - Guardian layer for AI agents with scoped sessions, encrypted secrets vault, immutable audit trail, and proxy mode that intercepts every MCP tool call for policy enforcement. 🧪 🆓 🛡️
