@@ -58,8 +58,6 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 - **[AgentRank](https://agentrank-ai.com)** - Live-scored directory of 25,000+ MCP servers, ranked daily by GitHub maintenance signals (freshness, issue health, contributors, dependents, stars). 🧪 🆓
 
-- **[Clarvia](https://clarvia.art)** - MCP directory and quality scanner indexing 27,000+ servers, each ranked by an AEO score covering agent-readiness, discoverability, and API quality. 🧪 🆓
-
 - **[Find MCP](https://catalog.agentage.io/mcp)** - Directory of 17,000+ MCP servers synced from the official MCP registry, queryable by agents over MCP (`mcp_search`, `mcp_get`, `mcp_categories`) via hosted Streamable HTTP or npx stdio. 🧪 🆓
 
 - **[Not Human Search](https://nothumansearch.ai)** - Agent-first search engine indexing 8,000+ MCP servers and agentically-readable sites, ranked by agentic readiness across 7 signals; includes a `verify_mcp` JSON-RPC probe. 🧪 🆓
