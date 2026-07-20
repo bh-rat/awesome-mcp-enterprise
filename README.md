@@ -223,6 +223,8 @@
 
 - **[FastMCP Cloud](https://www.fastmcp.cloud/)** - Hosted FastMCP deployment to go from code to production quickly. 🧪 🔑 🆓
 
+- **[Manufact](https://manufact.com/)** - MCP cloud for deploying, hosting, and scaling MCP servers in production ("like Vercel, but for MCP"). Push-to-deploy from GitHub with per-PR preview deployments, cloud inspector, cross-client testing, publishing checks, and built-in analytics, session replay, and traces. 🆓 🔑
+
 - **[MCPcat](https://mcpcat.io/)** - Analytics platform for MCP server owners that helps developers and product owners build, improve, and monitor their MCP servers. 🧪 🆓 
 
 - **[mpak](https://mpak.dev)** - Open-source MCPB registry with built-in trust framework for securely publishing, hosting, and installing MCP server bundles. 🆓 🛡️
