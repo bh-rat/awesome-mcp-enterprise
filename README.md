@@ -145,7 +145,7 @@
 
 - **[mcpadapt](https://grll.github.io/mcpadapt/)** - Unlock 650+ MCP tools in your favorite agentic framework. Manages and adapts MCP server tools into the appropriate format for each agent framework. 🧪 🆓 
 
-- **[mcp-use](https://github.com/mcp-use/mcp-use)** - Open-source toolkit (by Manufact) to connect any LLM to any MCP server and build custom MCP agents with tool access. 🆓
+- **[mcp-use](https://github.com/mcp-use/mcp-use)** - Open-source fullstack MCP framework (by Manufact) to build MCP Apps for ChatGPT / Claude and MCP servers for AI agents. 🆓
 
 - **[Naptha AI](https://auto-mcp.com/)** - Turn any agents, tools, or orchestrators into an MCP server in seconds; automates hosting and scaling from source or templates.
 
