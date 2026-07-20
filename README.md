@@ -12,9 +12,9 @@
  - [Private Registries (15)](#private-registries)
  - [Gateways & Proxies (33)](#gateways--proxies)
  - [Build Tools & Frameworks (17)](#build-tools--frameworks)
- - [MCP Apps (3)](#mcp-apps)
+ - [MCP Apps (2)](#mcp-apps)
  - [Security & Governance (19)](#security--governance)
- - [Infrastructure & Deployment (8)](#infrastructure--deployment)
+ - [Infrastructure & Deployment (9)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
  - [Emerging Tools 🧪](EMERGING.md)
@@ -145,7 +145,7 @@
 
 - **[mcpadapt](https://grll.github.io/mcpadapt/)** - Unlock 650+ MCP tools in your favorite agentic framework. Manages and adapts MCP server tools into the appropriate format for each agent framework. 🧪 🆓 
 
-- **[mcp-use](https://github.com/mcp-use/mcp-use)** - Open-source toolkit (by Manufact) to connect any LLM to any MCP server and build custom MCP agents with tool access. 🆓
+- **[mcp-use](https://github.com/mcp-use/mcp-use)** - Open-source fullstack MCP framework (by Manufact) to build MCP Apps for ChatGPT / Claude and MCP servers for AI agents. 🆓
 
 - **[Naptha AI](https://auto-mcp.com/)** - Turn any agents, tools, or orchestrators into an MCP server in seconds; automates hosting and scaling from source or templates.
 
@@ -163,8 +163,6 @@
 
 ## MCP Apps
 *Platforms and SDKs for building, shipping, and running MCP Apps — the official MCP extension for interactive, UI-rich apps that render inside MCP clients like ChatGPT and Claude*
-
-- **[Manufact](https://manufact.com/)** - MCP cloud to build, deploy, and scale MCP Apps and servers in production across ChatGPT, Claude, and other agents (formerly mcp-use; 7M+ SDK downloads). 🆓 🔑
 
 - **[MCP-UI](https://mcpui.dev/)** - Open-source SDK for interactive MCP UI components that became the basis of the official MCP Apps extension; adopted by Postman, Shopify, Hugging Face, Goose, and ElevenLabs. 🆓
 
@@ -222,6 +220,8 @@
 - **[Cloudflare Agents](https://developers.cloudflare.com/agents/model-context-protocol/)** - Build and deploy remote MCP servers with built-in authn/authz on Cloudflare. 🔑 🛡️
 
 - **[FastMCP Cloud](https://www.fastmcp.cloud/)** - Hosted FastMCP deployment to go from code to production quickly. 🧪 🔑 🆓
+
+- **[Manufact](https://manufact.com/)** - MCP cloud for deploying, hosting, and scaling MCP servers in production ("like Vercel, but for MCP"). Push-to-deploy from GitHub with per-PR preview deployments, cloud inspector, cross-client testing, publishing checks, and built-in analytics, session replay, and traces. 🆓 🔑
 
 - **[MCPcat](https://mcpcat.io/)** - Analytics platform for MCP server owners that helps developers and product owners build, improve, and monitor their MCP servers. 🧪 🆓 
 
