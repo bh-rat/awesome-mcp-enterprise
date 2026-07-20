@@ -12,9 +12,9 @@
  - [Private Registries (15)](#private-registries)
  - [Gateways & Proxies (33)](#gateways--proxies)
  - [Build Tools & Frameworks (17)](#build-tools--frameworks)
- - [MCP Apps (3)](#mcp-apps)
+ - [MCP Apps (2)](#mcp-apps)
  - [Security & Governance (19)](#security--governance)
- - [Infrastructure & Deployment (8)](#infrastructure--deployment)
+ - [Infrastructure & Deployment (9)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
  - [Emerging Tools 🧪](EMERGING.md)
@@ -163,8 +163,6 @@
 
 ## MCP Apps
 *Platforms and SDKs for building, shipping, and running MCP Apps — the official MCP extension for interactive, UI-rich apps that render inside MCP clients like ChatGPT and Claude*
-
-- **[Manufact](https://manufact.com/)** - MCP cloud to build, deploy, and scale MCP Apps and servers in production across ChatGPT, Claude, and other agents (formerly mcp-use; 7M+ SDK downloads). 🆓 🔑
 
 - **[MCP-UI](https://mcpui.dev/)** - Open-source SDK for interactive MCP UI components that became the basis of the official MCP Apps extension; adopted by Postman, Shopify, Hugging Face, Goose, and ElevenLabs. 🆓
 
