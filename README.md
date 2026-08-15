@@ -14,7 +14,7 @@
  - [Build Tools & Frameworks (17)](#build-tools--frameworks)
  - [MCP Apps (2)](#mcp-apps)
  - [Security & Governance (19)](#security--governance)
- - [Infrastructure & Deployment (9)](#infrastructure--deployment)
+ - [Infrastructure & Deployment (10)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
  - [Emerging Tools 🧪](EMERGING.md)
@@ -230,6 +230,8 @@
 - **[mpak](https://mpak.dev)** - Open-source MCPB registry with built-in trust framework for securely publishing, hosting, and installing MCP server bundles. 🆓 🛡️
 
 - **[Shinzo Labs](https://shinzo.ai/)** - Complete observability for MCP servers: anonymous usage analytics, error tracking, and configurable data sanitization; GDPR/CPRA-friendly with self‑hosting options. 🛡️ 🇪🇺 🆓
+
+- **[ToolHive](https://docs.stacklok.com/toolhive/)** - Apache 2.0 platform from Stacklok for running MCP servers with per-server permission profiles, secrets management, and network access controls; Stacklok Enterprise adds Okta and Entra SSO with RBAC. 🆓 🔑 🛡️
 
 - **[Unified.to](https://unified.to/)** - Real-time Data Infrastructure. Unified API + MCP that unlocks customer data from 347+ sources across 21+ categories for B2B SaaS and AI-native products. 📜 🇪🇺 🔑
 
