@@ -10,7 +10,7 @@
 ## Contents
 
  - [Private Registries (15)](#private-registries)
- - [Gateways & Proxies (34)](#gateways--proxies)
+ - [Gateways & Proxies (35)](#gateways--proxies)
  - [Build Tools & Frameworks (17)](#build-tools--frameworks)
  - [MCP Apps (2)](#mcp-apps)
  - [Security & Governance (19)](#security--governance)
@@ -58,6 +58,8 @@
 *MCP gateways, proxies, and routing solutions for enterprise architectures. Most also provide security features like OAuth, authn/authz, and guardrails.*
 
 - **[agentgateway](https://agentgateway.dev/)** - Open-source, AI-native data plane for MCP and A2A in the Linux Foundation, with an enterprise distribution for security, observability, and governance at scale. 🆓 🔑 🛡️
+
+- **[Apigee](https://docs.cloud.google.com/apigee/docs/api-platform/apigee-mcp/apigee-mcp-quickstart)** - Google Cloud API management platform that bundles API hub operations into governed MCP servers, auto-deploys them as discovery proxies, and applies existing Apigee policies to MCP traffic. 🔑 🛡️
 
 - **[Arcade.dev](https://www.arcade.dev)** - AI Tool-calling Platform that securely connects AI to MCPs, APIs, data, and more. Build assistants that don't just chat – they get work done. 🔑 🆓 📜 🏥 💳
 
