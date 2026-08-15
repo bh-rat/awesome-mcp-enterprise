@@ -10,7 +10,7 @@
 ## Contents
 
  - [Private Registries (15)](#private-registries)
- - [Gateways & Proxies (33)](#gateways--proxies)
+ - [Gateways & Proxies (34)](#gateways--proxies)
  - [Build Tools & Frameworks (17)](#build-tools--frameworks)
  - [MCP Apps (2)](#mcp-apps)
  - [Security & Governance (19)](#security--governance)
@@ -66,6 +66,8 @@
 - **[catie-mcp](https://www.catiemcp.com/)** - Context-aware, configurable proxy for routing MCP JSON-RPC requests to appropriate backends based on request content. 🧪
 
  - **[Cloud MCP](https://cloudmcp.dev/)** - Enterprise MCP control plane providing secure, scalable infrastructure and granular access control. 🧪 🔑 🛡️ 📜 🇪🇺 🆓
+
+- **[Cloudflare MCP Server Portals](https://developers.cloudflare.com/cloudflare-one/access-controls/ai-controls/mcp-portals/)** - Zero Trust gateway that centralizes up to 40 MCP servers behind a single authenticated endpoint, with Access identity, per-tool allowlists and aliases, and request-level logging. 🔑 🛡️
 
 - **[Docker MCP Gateway](https://github.com/docker/mcp-gateway)** - Open-source MCP gateway with container isolation, secrets management, and signature verification. Included in Docker Desktop. 🆓 🔑
 
