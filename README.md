@@ -13,7 +13,7 @@
  - [Gateways & Proxies (34)](#gateways--proxies)
  - [Build Tools & Frameworks (17)](#build-tools--frameworks)
  - [MCP Apps (2)](#mcp-apps)
- - [Security & Governance (19)](#security--governance)
+ - [Security & Governance (20)](#security--governance)
  - [Infrastructure & Deployment (9)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
  - [Tutorials & Guides (2)](#tutorials--guides)
@@ -182,6 +182,8 @@
 - **[Auth0 for GenAI](https://auth0.com/ai)** - Identity layer for production MCP servers from Auth0 (Okta): user authentication, Token Vault, async authorization, and enterprise SSO. 🔑 📜 🆓
 
 - **[Barndoor AI](https://barndoor.ai/)** - Enterprise MCP access control and governance with ToolIQ for intelligent tool routing. Blocks risky AI actions and provides compliance reporting with audit logs. 🔑 🛡️
+
+- **[Cycode](https://cycode.com/platform/)** - Agentic Development Security Platform that auto-discovers shadow MCP servers, AI coding assistants, and models across the development environment, feeding an AI Bill of Materials with authorization workflows. 🛡️
 
 - **[Descope](https://www.descope.com/)** - Drop-in auth for AI agents and MCP via Inbound Apps, with custom scopes and fine-grained, tool-level permissions. 🔑 🆓 📜
 
