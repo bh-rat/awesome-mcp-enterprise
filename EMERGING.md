@@ -38,6 +38,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 ### Security & Governance
 
+- **[AgentX](https://agentx-core.com)** - Keyless local proxy that wraps a stdio MCP server and screens every tool call for destructive SQL, SSRF, secret reads, path traversal, and shell teardown before it executes, with no network call in the screening path. 🧪 🆓 🛡️
+
 - **[Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard)** - MIT-licensed local Rust scanner and MCP proxy that wraps stdio MCP servers and inspects tool-call arguments for prompt injection, credential leakage, and risky actions before execution. 🧪 🆓 🛡️
 
 - **[Clay Seal](https://github.com/clayseal/clayseal-identity)** - Attested agent identity and Biscuit capability tokens sender-constrained to a holder key, letting an MCP server authorize each tool call offline and rendering a copied token inert; Python guard and JavaScript verifier. 🧪 🆓 🛡️
