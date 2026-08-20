@@ -209,7 +209,8 @@
 
 - **[WorkOS](https://workos.com/mcp)** - Spec-compliant OAuth 2.1 authorization for MCP servers, plus SSO, SCIM, and audit logs; powers Anthropic, OpenAI, Cursor, and Perplexity. 🔑 🆓 📜
 
-- **[Zenity](https://zenity.io/)** - End-to-end security and governance platform for AI agents spanning SaaS, cloud, and endpoints. Fortune Cyber 60 (2026), Agentic AI Security Solution of the Year. 🛡️ 📜
+- **[Zenity](https://zenity.io/)** - End-to-end security and governance platform for AI agents spanning SaaS, cloud, and endpoints.
+- **[MandateGuard](https://github.com/ezequiellich44-cmd/MandateGuard)** - Deterministic payment policy enforcement for AI agents. Pre-action gate enforcing budgets, allowlists, denylists, rate limits, and signed Ed25519 payment mandates before any money moves; zero LLM in the decision path, tamper-evident SHA-256 audit ledger. Official MCP server on the Model Context Protocol Registry. MIT core.  Fortune Cyber 60 (2026), Agentic AI Security Solution of the Year. 🛡️ 📜
 
 
 ## Infrastructure & Deployment
