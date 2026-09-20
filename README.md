@@ -270,6 +270,7 @@
 - [MCP Specification](https://spec.modelcontextprotocol.io/)
 
 ### Official Tools
+- [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — record & replay AI coding-agent runs offline.
 - **[MCP Inspector](https://modelcontextprotocol.io/legacy/tools/inspector)** - Web-based tool to inspect and interact with MCP servers in real time. 🆓
 
 ### Official Registry
