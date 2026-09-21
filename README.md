@@ -171,6 +171,7 @@
 - **[OpenAI Apps SDK](https://developers.openai.com/apps-sdk)** - Official SDK to build interactive apps in ChatGPT on MCP; reference implementation of the MCP Apps extension. 🧪 🔑
 
 ## Security & Governance
+- **[Statsnet](https://github.com/usenetstate/statsnet-mcp)** — Background check any company in the world: registration, executives, courts and finances. Endpoint: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 *Security, observability, guardrails, identity, and governance for MCP implementations*
 
 - **[Acuvity](https://acuvity.ai/)** - Acquired by Proofpoint (February 2026). Runtime AI and MCP security with agentic-workspace visibility, policy enforcement, and the open-source minibridge for MCP. 🛡️ 🆓
