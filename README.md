@@ -243,6 +243,7 @@
 
 - **[FastMCP.me](https://fastmcp.me)** - App store for MCP servers — discover and one‑click install community‑vetted servers for Cursor, VS Code, Claude Desktop, and more. 🆓
 
+- **[BuyWhere](https://github.com/BuyWhere/buywhere-mcp)** - Product search and price-comparison MCP for AI agents (370M+ products). Remote: [api.buywhere.ai/mcp](https://api.buywhere.ai/mcp) · docs: [docs.buywhere.ai](https://docs.buywhere.ai) · `npx -y @buywhere/mcp-server`.
 - **[MCP Market](https://mcpmarket.com)** - Directory of awesome MCP servers and clients to connect AI agents with your favorite tools. 🆓 
 
 - **[MCP SO](https://mcp.so)** - Connect the world with MCP. Find awesome MCP servers. Build AI agents quickly. 🆓
