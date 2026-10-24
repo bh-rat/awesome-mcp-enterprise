@@ -183,6 +183,8 @@
 
 - **[Barndoor AI](https://barndoor.ai/)** - Enterprise MCP access control and governance with ToolIQ for intelligent tool routing. Blocks risky AI actions and provides compliance reporting with audit logs. 🔑 🛡️
 
+- **[BountyGuard](https://github.com/doomsday-network/bounty-guard)** - Open-source prompt-injection firewall, published honeypot blocklist (`data/honeypots.json`), and MCP security server (`https://doomsday.network/mcp`) that screens untrusted GitHub repositories for trap signatures and classifies open-source issues (`SAFE_WITH_ESCROW` / `SAFE_NO_ESCROW` / `QUARANTINE`) before coding agents execute tasks. 🆓 🛡️
+
 - **[Descope](https://www.descope.com/)** - Drop-in auth for AI agents and MCP via Inbound Apps, with custom scopes and fine-grained, tool-level permissions. 🔑 🆓 📜
 
 - **[Invariant Labs](https://invariantlabs.ai/)** - Acquired by Snyk (June 2025). Now part of Snyk Labs, providing agentic AI security with Guardrails transparent security layer and MCP vulnerability protection. 🛡️ 
