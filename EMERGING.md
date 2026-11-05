@@ -32,6 +32,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 - **[Magertron MCP Orchestrator](https://github.com/curtismager20/magertron-mcpm)** - Kubernetes-native MCP gateway and orchestrator with Envoy v3 xDS session-affinity routing, leader-elected HA, per-tool RBAC, OCSF-aligned audit logs for SIEM, and SSO/SCIM; Helm chart open-sourced under Apache 2.0. 🧪 🆓 🔑 🛡️
 
+- **[OpenWork](https://openworklabs.com/connect)** - Hosted MCP gateway that brings a team's MCP connections, skills, and plugins into any MCP client through one OAuth URL, with per-team access and tool controls. 🧪 📜 🆓 🔑
+
 - **[PolicyLayer](https://policylayer.com)** - Hosted MCP gateway that applies deterministic, deny-by-default policy to every tool call — allow, deny, rate-limit, or require approval — with argument-level rules, per-identity scoped tokens, and a per-call audit log. 🧪 🛡️ 🔑
 
 - **[SecureAuth Agent Authority](https://secureauth.com/capabilities/mcp-authority)** - Identity- and delegation-aware MCP gateway that binds each agent run to its user, checks every tool call against policy down to its arguments, and replaces API keys with short-lived OAuth tokens. 🧪 🔑 🛡️
