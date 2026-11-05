@@ -253,6 +253,8 @@
 
 - **[Smithery](https://smithery.ai/)** - Gateway to 5000+ ready-made MCP servers with one-click deployment. 🆓
 
+- **[Signbee MCP & Agent Tools Directory](https://github.com/signbee/mcp)** - Cryptographic SHA-256 document execution, OTP identity verification, and audit-trail infrastructure for enterprise MCP workflows alongside the [Awesome Agent Tools](https://github.com/signbee/awesome-agent-tools) registry. 🆓 🔑 🛡️
+
 ## Tutorials & Guides
 *Enterprise-focused tutorials, implementation guides, and best practices for MCP deployment*
 
