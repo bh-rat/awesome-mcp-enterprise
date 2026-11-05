@@ -24,6 +24,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 - **[Arbitus](https://github.com/arbitusgateway/arbitus)** - Rust-based open-source MCP security proxy with per-agent auth (API key, JWT/OIDC, mTLS), rate limiting, payload filtering, HITL approvals, and OPA/Rego policies. 🧪 🆓 🔑 🛡️
 
+- **[Elaichi](https://elaichi.ai)** - Hosted MCP gateway that puts 650+ connectors and a company's own remote MCP servers behind one org-wide OAuth endpoint, resolving every call against the current role of the person the agent acts for. 🧪 📜 🏥 🇪🇺 📘 🆓 🔑 🛡️
+
 - **[llmtrim](https://github.com/fkiene/llmtrim)** - Local proxy that compresses MCP tool output, prompts, and conversation history before they reach the model, with a quality gate that reverts any step that does not save tokens. 🧪 🆓
 
 - **[Magertron MCP Orchestrator](https://github.com/curtismager20/magertron-mcpm)** - Kubernetes-native MCP gateway and orchestrator with Envoy v3 xDS session-affinity routing, leader-elected HA, per-tool RBAC, OCSF-aligned audit logs for SIEM, and SSO/SCIM; Helm chart open-sourced under Apache 2.0. 🧪 🆓 🔑 🛡️
