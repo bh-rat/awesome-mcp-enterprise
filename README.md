@@ -10,7 +10,7 @@
 ## Contents
 
  - [Private Registries (15)](#private-registries)
- - [Gateways & Proxies (34)](#gateways--proxies)
+ - [Gateways & Proxies (35)](#gateways--proxies)
  - [Build Tools & Frameworks (17)](#build-tools--frameworks)
  - [MCP Apps (2)](#mcp-apps)
  - [Security & Governance (19)](#security--governance)
@@ -58,6 +58,8 @@
 *MCP gateways, proxies, and routing solutions for enterprise architectures. Most also provide security features like OAuth, authn/authz, and guardrails.*
 
 - **[agentgateway](https://agentgateway.dev/)** - Open-source, AI-native data plane for MCP and A2A in the Linux Foundation, with an enterprise distribution for security, observability, and governance at scale. 🆓 🔑 🛡️
+
+- **[Amazon Bedrock AgentCore Gateway](https://docs.aws.amazon.com/bedrock-agentcore/latest/devguide/gateway.html)** - Fully managed AWS gateway that turns APIs, Lambda functions, and existing services into MCP tools, with dual-sided auth, semantic tool selection, and OAuth 2.0 on-behalf-of token exchange. 🔑 🛡️
 
 - **[Arcade.dev](https://www.arcade.dev)** - AI Tool-calling Platform that securely connects AI to MCPs, APIs, data, and more. Build assistants that don't just chat – they get work done. 🔑 🆓 📜 🏥 💳
 
