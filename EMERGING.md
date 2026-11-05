@@ -30,6 +30,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 - **[PolicyLayer](https://policylayer.com)** - Hosted MCP gateway that applies deterministic, deny-by-default policy to every tool call — allow, deny, rate-limit, or require approval — with argument-level rules, per-identity scoped tokens, and a per-call audit log. 🧪 🛡️ 🔑
 
+- **[SecureAuth Agent Authority](https://secureauth.com/capabilities/mcp-authority)** - Identity- and delegation-aware MCP gateway that binds each agent run to its user, checks every tool call against policy down to its arguments, and replaces API keys with short-lived OAuth tokens. 🧪 🔑 🛡️
+
 - **[ToolRouter](https://toolrouter.com)** - MCP gateway providing access to 150+ pre-integrated tools behind a single account and API key, replacing per-provider credential management. 🧪 🔑 🆓
 
 ### Build Tools & Frameworks
