@@ -60,6 +60,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 - **[mcp-gatehouse](https://github.com/nickgeorgeseo/mcp-gatehouse)** - Open-source Python library that enforces permission tiers, fail-closed human approval gates, and a secret-redacting JSONL audit log inside MCP servers built on the official SDK. 🧪 🆓 🛡️
 
+- **[RugSnare](https://github.com/Paraphern/rugsnare)** - Pins approved MCP tool contracts by SHA-256 and fails CI when a server silently changes them, with graded drift diffs and agent-skill pinning across 14 platforms. 🧪 🆓 🛡️
+
 - **[SidClaw](https://github.com/sidclawhq/platform)** - Open-source approval and audit layer that wraps MCP servers with policy evaluation, human-in-the-loop approval workflows, and hash-chain audit trails before tool execution. 🧪 🆓 🛡️
 
 - **[Signet](https://github.com/Prismer-AI/signet)** - SDK and middleware that gives agents Ed25519 identity and cryptographically signs every MCP tool call, with encrypted key storage and hash-chained audit logs. 🧪 🆓 🛡️
