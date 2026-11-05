@@ -16,7 +16,7 @@
  - [Security & Governance (19)](#security--governance)
  - [Infrastructure & Deployment (9)](#infrastructure--deployment)
  - [MCP Directories & Marketplaces (8)](#mcp-directories--marketplaces)
- - [Tutorials & Guides (2)](#tutorials--guides)
+ - [Tutorials & Guides (3)](#tutorials--guides)
  - [Emerging Tools 🧪](EMERGING.md)
 
 ## Private Registries
@@ -259,6 +259,8 @@
 - **[EpicAI Pro — Kent C. Dodds](https://epicai.pro)** - The blueprint for building next‑generation AI‑powered applications structured for context protocols like MCP.
 
 - **[Anthropic: Introduction to Model Context Protocol](https://anthropic.skilljar.com/introduction-to-model-context-protocol)** - Official course introducing MCP concepts, architecture, and hands‑on usage.
+
+- **[MCP Explained](https://mcp-explained.com)** - Free interactive explainer from Runlayer that steps through MCP messages on the wire, with a spec time machine and walkthroughs of common attacks with and without a gateway.
 
 
 
