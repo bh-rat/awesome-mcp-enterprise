@@ -10,7 +10,7 @@
 ## Contents
 
  - [Private Registries (15)](#private-registries)
- - [Gateways & Proxies (34)](#gateways--proxies)
+ - [Gateways & Proxies (35)](#gateways--proxies)
  - [Build Tools & Frameworks (17)](#build-tools--frameworks)
  - [MCP Apps (2)](#mcp-apps)
  - [Security & Governance (19)](#security--governance)
@@ -60,6 +60,8 @@
 - **[agentgateway](https://agentgateway.dev/)** - Open-source, AI-native data plane for MCP and A2A in the Linux Foundation, with an enterprise distribution for security, observability, and governance at scale. 🆓 🔑 🛡️
 
 - **[Arcade.dev](https://www.arcade.dev)** - AI Tool-calling Platform that securely connects AI to MCPs, APIs, data, and more. Build assistants that don't just chat – they get work done. 🔑 🆓 📜 🏥 💳
+
+- **[Azure API Management](https://learn.microsoft.com/en-us/azure/api-management/secure-mcp-servers)** - Exposes existing APIs as MCP servers and governs external MCP runtimes, implementing the MCP authorization spec (OAuth 2.1 and Protected Resource Metadata) with Entra ID identity. 🧪 🔑 🛡️
 
 - **[Bifrost](https://github.com/maximhq/bifrost)** - High-performance open-source LLM and MCP gateway with sub-100µs overhead. Unified API for 15+ providers with automatic fallbacks and load balancing. 🆓
 
