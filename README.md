@@ -10,7 +10,7 @@
 ## Contents
 
  - [Private Registries (15)](#private-registries)
- - [Gateways & Proxies (34)](#gateways--proxies)
+ - [Gateways & Proxies (35)](#gateways--proxies)
  - [Build Tools & Frameworks (17)](#build-tools--frameworks)
  - [MCP Apps (2)](#mcp-apps)
  - [Security & Governance (19)](#security--governance)
@@ -102,6 +102,8 @@
  - **[NexusRouter](https://nexusrouter.com/)** - Unified endpoint to route MCP servers and LLMs; aggregate, govern, and control your AI stack. 🧪
  
  - **[Obot MCP Gateway](https://obot.ai/)** - Open-source MCP gateway providing a control plane to catalog, proxy, and manage MCP servers with SSO, RBAC, audit logging, and policy enforcement. 🔑 🛡️ 🆓
+
+- **[OpenWork](https://openworklabs.com/connect)** - Hosted MCP gateway that delivers a team's MCP servers, skills, and AI models to any MCP client through one OAuth URL, with per-team access and tool controls. 📜 🆓 🔑
 
 - **[Peta](https://peta.io/)** - Agent vault and zero-trust MCP gateway. Encrypted credential storage, scoped time-limited tokens, and human-in-the-loop approvals for high-risk operations. 🔑 🛡️
 
