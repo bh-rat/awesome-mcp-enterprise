@@ -44,6 +44,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 - **[click-to-mcp](https://github.com/Coding-Dev-Tools/click-to-mcp)** - Auto-convert any Click/typer CLI into an MCP server. 🧪 🆓 🔑
 
+- **[Sett](https://github.com/kclarkedesign/sett-mcp)** - Open-source template for Python MCP servers on the official SDK that start read-only, ask the user before destructive tool calls, refuse clients that can't show the prompt, and mask sensitive fields in results and the JSONL audit log. 🧪 🆓 🛡️
+
 ### Security & Governance
 
 - **[AgentX](https://agentx-core.com)** - Keyless local proxy that wraps a stdio MCP server and screens every tool call for destructive SQL, SSRF, secret reads, path traversal, and shell teardown before it executes, with no network call in the screening path. 🧪 🆓 🛡️
