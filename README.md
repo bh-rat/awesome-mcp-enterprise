@@ -278,6 +278,7 @@
 - **[Official MCP Servers Registry](https://github.com/modelcontextprotocol/registry)** - Official MCP server implementations, examples, and reference code. 🆓
 
 ### Developer Tools
+- **[KaijuConverter MCP Server](https://kaijuconverter.com/api/mcp)** - Fast MCP server providing 54 tools for format detection, validation, batch conversion across 201+ file formats, and OCR. 🆓
 
 ### Blog Posts & Articles
 *Coming soon - submit a PR to add resources!*
