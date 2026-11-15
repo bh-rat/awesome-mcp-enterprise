@@ -170,6 +170,8 @@
 
 - **[OpenAI Apps SDK](https://developers.openai.com/apps-sdk)** - Official SDK to build interactive apps in ChatGPT on MCP; reference implementation of the MCP Apps extension. 🧪 🔑
 
+- **[No Stairs Please MCP](https://nostairsplease.com/mcp)** - Remote MCP server and interactive map app for searching 2,200+ step-free North American live-music venues, load-in stairs, and drive-time routing. 🆓
+
 ## Security & Governance
 *Security, observability, guardrails, identity, and governance for MCP implementations*
 
