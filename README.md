@@ -267,6 +267,8 @@
 
 ## Resources
 
+- [No Stairs Please MCP](https://nostairsplease.com/mcp) - Remote Streamable HTTP MCP server with OAuth 2.1 + DCR for US & BC independent live-music venue discovery and booking contacts ([Directory](https://nostairsplease.com/venues)).
+
 ### Official Documentation
 - [MCP Official Documentation](https://modelcontextprotocol.io/docs)
 - [MCP Specification](https://spec.modelcontextprotocol.io/)
