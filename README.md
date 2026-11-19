@@ -205,6 +205,8 @@
 
  - **[SGNL](https://sgnl.ai/)** - Acquired by CrowdStrike (January 2026, $740M). Continuous Identity platform for real-time access control across human, non-human, and AI identities. 🔑 🛡️ 📜
 
+- **[SourceryKit](https://github.com/ProvablyAI/sourcerykit)** - Source-available Python SDK and hosted gateway that verifies an agent's outbound requests and MCP tool calls against a source of truth using zero-knowledge proofs, so a call only goes out if its claims check out. Allow-lists trusted endpoints and logs every call. 🛡️ 🆓
+
 - **[Stytch](https://stytch.com/)** - Auth infrastructure with Connected Apps purpose-built as an OAuth provider for MCP servers, including Dynamic Client Registration. 🔑 🆓 📜
 
 - **[WorkOS](https://workos.com/mcp)** - Spec-compliant OAuth 2.1 authorization for MCP servers, plus SSO, SCIM, and audit logs; powers Anthropic, OpenAI, Cursor, and Perplexity. 🔑 🆓 📜
