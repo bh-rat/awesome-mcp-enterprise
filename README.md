@@ -169,6 +169,7 @@
 - **[MCP-UI](https://mcpui.dev/)** - Open-source SDK for interactive MCP UI components that became the basis of the official MCP Apps extension; adopted by Postman, Shopify, Hugging Face, Goose, and ElevenLabs. 🆓
 
 - **[OpenAI Apps SDK](https://developers.openai.com/apps-sdk)** - Official SDK to build interactive apps in ChatGPT on MCP; reference implementation of the MCP Apps extension. 🧪 🔑
+- **[Public Records MCP](https://github.com/GeminiGeorge22/publicrecords-mcp)** - 18 Apify-hosted MCP servers for public data: SAM.gov, Grants.gov, USAspending, EU TED and UK tenders, city council meetings, Ashby/Greenhouse/Lever/SmartRecruiters jobs, company social links, Google Ads Transparency, Etsy sales, sports odds, Spotify play counts.
 
 ## Security & Governance
 *Security, observability, guardrails, identity, and governance for MCP implementations*
