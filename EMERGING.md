@@ -84,6 +84,8 @@ Categories mirror the main list. Add entries under the matching heading; leave a
 
 - **[Not Human Search](https://nothumansearch.ai)** - Agent-first search engine indexing 8,000+ MCP servers and agentically-readable sites, ranked by agentic readiness across 7 signals; includes a `verify_mcp` JSON-RPC probe. 🧪 🆓
 
+- **[FlashData MCP](https://github.com/flashdatadev/flashdata-mcp)** - Hosted Streamable HTTP (`https://data.flashdata.dev/mcp`) and open-source stdio MCP server providing 22 tools for real-time Google Search, YouTube transcripts/metadata, and cloud video delivery to S3, GCS, Azure Blob & R2 (free trial, no credit card required).
+
 ### Tutorials & Guides
 
 *No entries yet.*
